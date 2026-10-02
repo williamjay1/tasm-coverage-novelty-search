@@ -1,0 +1,2 @@
+-r requirements-replay.txt
+lightgbm==4.7.0

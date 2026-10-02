@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "situation_ranker_rows": 120,
+  "exact_fields": [
+    "general_reach_exact",
+    "novel_document_exposure_exact",
+    "novel_supply_exact",
+    "changed_identifiers_count_exact"
+  ],
+  "source": "Existing raw core_task/core_newpair/q=.30 v2 development details",
+  "note": "Old selected IDs were not saved in development; aggregate selection counts and cached outcomes recovered exactly. New selected IDs are saved for reproducibility."
+}

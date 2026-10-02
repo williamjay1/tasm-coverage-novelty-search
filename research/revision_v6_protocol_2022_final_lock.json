@@ -1,0 +1,9 @@
+{
+  "protocol_sha256": "63e7477e9b0f100ba9220cac4a60a4f342c8569373c758b8736d568e70b25048",
+  "prior_protocol_sha256": "84fd0c1b7716f976d9e291cc53488a7b76d221fb47c26723426e908f006fa060",
+  "amended_at_utc": "2026-10-02T04:04:08.114662+00:00",
+  "frozen": true,
+  "scope": "Amended analysis design only; execution prerequisites remain pending",
+  "new_source_access": false,
+  "evaluation_run": false
+}

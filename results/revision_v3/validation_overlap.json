@@ -1,0 +1,45 @@
+{
+  "evaluation_completed_utc": "2026-09-30T17:56:59.393940+00:00",
+  "task_not_original_policy_design_domain": true,
+  "broad_domain_candidate_universe_shared_fraction": 1.0,
+  "unique_validation_pool_candidates": 16756,
+  "unique_validation_selected_candidates": 3542,
+  "validation_selected_also_any_battery_task_v2_selected": 0,
+  "validation_pool_also_any_prior_evaluated_selected": 0,
+  "validation_selected_also_any_prior_evaluated_selected": 0,
+  "feasible_validation_situations": 1077,
+  "same_orgyear_as_original_battery_sample": 156,
+  "same_orgs_as_original_battery_sample": 53,
+  "validation_organizations": 371,
+  "primary_label_counts": [
+    {
+      "year": 2018,
+      "n": 3930,
+      "task": 183,
+      "general": 307,
+      "applicant": 74
+    },
+    {
+      "year": 2019,
+      "n": 4638,
+      "task": 199,
+      "general": 331,
+      "applicant": 70
+    },
+    {
+      "year": 2020,
+      "n": 4481,
+      "task": 193,
+      "general": 264,
+      "applicant": 51
+    },
+    {
+      "year": 2021,
+      "n": 3707,
+      "task": 149,
+      "general": 226,
+      "applicant": 65
+    }
+  ],
+  "caveat": "New coded task and complete organization admission; prior shortlist IDs excluded but shared thermal corpus and periods. Bootstrap does not remove shared patent/environment dependence; not corporate benefit or unseen-domain prediction."
+}

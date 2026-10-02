@@ -1,0 +1,10 @@
+{
+  "checked_utc": "2026-10-02T03:44:41.701895+00:00",
+  "source_sha256": "4e76f38d18f102cbec7bc1cfd95404effe923670e49c8fbb4acd38cad8dcaa99",
+  "point_rows": 20,
+  "all_points_same_356_situations": true,
+  "metrics": "Task links, selected documents with an unseen pair, general links; no composite value index.",
+  "novelty_contrasts_hold_realized_coverage": true,
+  "uncertainty": "The descriptive figure does not turn mean differences into independent uncertainty. Main text retains paired and crossed sensitivity intervals.",
+  "status": "PASS"
+}

@@ -1,0 +1,6 @@
+{
+  "scope": "Fixed-list outcome sensitivity; no retraining or quota reselection.",
+  "resolved_owner_missing": "Pairs with any missing disambiguated-outcome selected record are incomplete for this sensitivity; their number is reported. Do not treat a changed subset as an identical sample.",
+  "thresholds": "Primary and alternative count measurements require at least two observed units. The separately labelled cohort-quantile sensitivity uses max(1,90th percentile) with ties; actual rates are reported.",
+  "owner_interpretation": "External is relative to the cited patent's owners. A focal searching organization may itself later cite a selected patent; this label does not exclude it."
+}

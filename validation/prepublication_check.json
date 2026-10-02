@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "validated_utc": "2026-10-02T09:51:09.177188+00:00",
+  "python_scripts_ast_parsed": 33,
+  "original_scientific_parquet_database_hashes_verified": 154,
+  "metadata_validation": "YAML/JSON parsing and required project fields; not a remote Zenodo deposit validation",
+  "mixed_licenses_documented": [
+    "MIT",
+    "CC-BY-4.0"
+  ],
+  "source_doi_distinguished_from_study_doi": true,
+  "cross_platform_byte_preservation": ".gitattributes disables newline conversions",
+  "smoke_record_status": "PASS",
+  "scope": "Six recorded isolated replay commands; no fresh forecasting refit or full raw-source rebuild claimed"
+}

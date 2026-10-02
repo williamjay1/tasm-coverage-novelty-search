@@ -1,0 +1,16 @@
+{
+  "prepared_utc": "2026-09-30T17:05:57.541939+00:00",
+  "complete_history_source": "All utility nonwithdrawn source grants and all original as-published owners, not old battery portfolio subset",
+  "electronics_grants": [
+    13115,
+    129,
+    12986
+  ],
+  "eligible_owner_universe": 1587,
+  "portfolio_grants": [
+    1101349,
+    1101349
+  ],
+  "no_new_download": true,
+  "protocol_sha256": "d3b303f2515d5fa2705274ccef6a4c86480524888932cad18546afc377e905e0"
+}

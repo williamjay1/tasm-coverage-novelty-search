@@ -1,0 +1,8 @@
+{
+  "reason": "Verification of existing quota_select: legacy q=.30 is supply-capped, unlike the exact C,m grid. Add the authentic legacy policy and its matched control; retain all originally locked strict-target comparisons.",
+  "change": "Companion legacy_pair_q30 and legacy_pair_q30_matched for all admitted situations; no changes to years, baseline contexts, thresholds, objectives, predictors, exact-grid floors, or original strict q9 results",
+  "disclosure": "Amendment after first point run; deterministic reconstruction correction, not outcome-based selection",
+  "legacy_requested_target": 9,
+  "legacy_effective_target": "min(9, novel-core supply)",
+  "strict_q9_policy_identifier": "original_pair_q9"
+}

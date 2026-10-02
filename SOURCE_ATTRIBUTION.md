@@ -1,0 +1,5 @@
+# Source attribution
+
+Source: United States Patent and Trademark Office, Final release of PatentsView metadata, pre-grant and granted (12/31/2024), published 20 March 2025, version-specific DOI https://doi.org/10.5281/zenodo.15058362, retrieved 29 September 2026. The source record specifies CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). This repository contains filtered, normalized, linked and aggregated derivatives and author-created analytic outputs; it does not constitute a new PatentsView source release. All changes are documented in the processing scripts and manifests. The source DOI identifies the input archive, not this study's code/data release.
+
+Large original raw ZIPs, intermediate source databases, third-party scholarly full texts and patent-page mirrors are excluded. Public organization names are archival entities, not recruited participants. Original metadata dates, grant-year visibility, deduplication, owner normalization and outcome filters remain documented in the code.

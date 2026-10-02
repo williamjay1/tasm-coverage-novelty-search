@@ -1,0 +1,79 @@
+{
+  "g_patent": [
+    "patent_id",
+    "patent_type",
+    "patent_date",
+    "patent_title",
+    "wipo_kind",
+    "num_claims",
+    "withdrawn",
+    "filename"
+  ],
+  "g_cpc_at_issue": [
+    "patent_id",
+    "cpc_sequence",
+    "cpc_version_indicator",
+    "cpc_section",
+    "cpc_class",
+    "cpc_subclass",
+    "cpc_group",
+    "cpc_type",
+    "cpc_action_date"
+  ],
+  "g_assignee_disambiguated": [
+    "patent_id",
+    "assignee_sequence",
+    "assignee_id",
+    "disambig_assignee_individual_name_first",
+    "disambig_assignee_individual_name_last",
+    "disambig_assignee_organization",
+    "assignee_type",
+    "location_id"
+  ],
+  "g_application": [
+    "application_id",
+    "patent_id",
+    "patent_application_type",
+    "filing_date",
+    "series_code",
+    "rule_47_flag"
+  ],
+  "g_ipc_at_issue": [
+    "patent_id",
+    "ipc_sequence",
+    "classification_level",
+    "section",
+    "ipc_class",
+    "subclass",
+    "main_group",
+    "subgroup",
+    "classification_value",
+    "classification_status",
+    "classification_data_source",
+    "action_date",
+    "ipc_version_indicator"
+  ],
+  "g_assignee_not_disambiguated": [
+    "patent_id",
+    "assignee_sequence",
+    "assignee_id",
+    "raw_assignee_individual_name_first",
+    "raw_assignee_individual_name_last",
+    "raw_assignee_organization",
+    "assignee_type",
+    "rawlocation_id"
+  ],
+  "g_patent_abstract": [
+    "patent_id",
+    "patent_abstract"
+  ],
+  "g_us_patent_citation": [
+    "patent_id",
+    "citation_sequence",
+    "citation_patent_id",
+    "citation_date",
+    "record_name",
+    "wipo_kind",
+    "citation_category"
+  ]
+}

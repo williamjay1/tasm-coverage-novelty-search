@@ -1,0 +1,18 @@
+{
+  "rows": [
+    {
+      "n_rows": 5160114,
+      "normalized_keys": 341584,
+      "raw_names": 476645,
+      "empty_normalized_rows": 0,
+      "non_ascii_name_rows": 28081
+    }
+  ],
+  "multiple_names": [
+    {
+      "normalized_keys_with_multiple_literal_names": 83280,
+      "literal_names_in_these_keys": 218341
+    }
+  ],
+  "empty_examples": []
+}

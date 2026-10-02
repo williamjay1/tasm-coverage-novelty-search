@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "seed": 20261001,
+  "repeats": 2000,
+  "comparisons": 4,
+  "endpoint_metrics": 6,
+  "point_audit": "Each signed patent-contribution sum/356 exactly reproduces decision-level means",
+  "organization": "Resample 114 organizations with replacement; retain every historical situation, divide by sampled situation count",
+  "crossed": "Independent Exp(1) weights for organization and patent, product shared across occurrences; fixed lists",
+  "denominator": "Complete pool exposure 1/pool_n per organization-year-patent, including zero-contribution unselected candidates; unit sum356",
+  "limits": "Exploratory dependency sensitivity, not exact confidence coverage or new-environment inference; four observed years remain fixed",
+  "scope_reduction": "Bootstrap limited to original group/pair novelty-minus-matched contrasts for both rankers; grid bootstrap not executed"
+}

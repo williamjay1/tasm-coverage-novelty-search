@@ -1,0 +1,64 @@
+{
+  "status": "development_exploratory_locked_before_new_point_summaries",
+  "years": [
+    2013,
+    2014,
+    2015
+  ],
+  "source": "Existing D canonical caches and frozen primary_v1 scores; no new predictor",
+  "retrospective_status": "Original development outcomes were previously accessible; not preregistered or independent confirmation",
+  "baseline": "Top30 under each frozen ranker in the reconstructed core-task admission pool",
+  "thresholds": {
+    "low": "core positions/30 < .20 (0..5)",
+    "middle": ".20 <= core positions/30 <= .40 (6..12)",
+    "high": "> .40 (13..30)"
+  },
+  "capacities": [
+    0,
+    3,
+    6,
+    9,
+    12,
+    15,
+    30
+  ],
+  "absolute_novel_document_floors": [
+    0,
+    3,
+    9
+  ],
+  "infeasibility": "C<m, core supply<C, noncore supply<30-C, or novel-core supply<m; never shrink exact grid targets",
+  "axes": "Hold C fixed and vary absolute m; hold absolute m fixed and vary C. Constant fractional r would vary the absolute floor.",
+  "objectives": [
+    "task_linked",
+    "novel_document_exposure",
+    "unique_unseen_core_pairs",
+    "general_reach"
+  ],
+  "weights": "None; no weighted utility or optimized deployment policy",
+  "comparators": [
+    "top30",
+    "task_title_cosine",
+    "core_priority_score",
+    "original_pair_q9",
+    "original_pair_q9_matched",
+    "mmr_0.5",
+    "mmr_0.7",
+    "mmr_0.9"
+  ],
+  "core_priority": "Highest frozen-score core candidates up to min(30,core supply), then score-ranked noncore backfill; not semantic relevance",
+  "task_title_cosine": "Rank the admitted candidates by preceding-core title-centroid cosine; lexical task score, not validated engineering relevance",
+  "mmr": "Existing policy_core.mmr_select, weights .5/.7/.9, same reconstructed pool and mature title TF-IDF vectors",
+  "ratio_guard": {
+    "minimum_mean_positive_combined_gain": 0.1,
+    "strictly_greater": true,
+    "minimum_situations": 10,
+    "minimum_organizations": 5
+  },
+  "uncertainty": "Overall primary task/general contrasts only: paired organization percentile and crossed org x patent Exp(1) sensitivity; fixed lists/years; sparse contexts descriptive",
+  "bootstrap_seed": 20261002,
+  "bootstrap_draws": 2000,
+  "temporary_directory": "<project>\\temp",
+  "numeric_threads": 2,
+  "new_2022_external_validation": "Not performed by this script"
+}

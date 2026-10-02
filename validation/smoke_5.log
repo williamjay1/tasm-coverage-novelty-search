@@ -1,0 +1,3 @@
+{"event": "BUDGET_TASK_READY", "task": "battery", "pilot": true, "rows": 390}
+{"event": "BUDGET_TASK_READY", "task": "electronics", "pilot": true, "rows": 780}
+{"event": "PILOT_PASS", "status": "PASS", "pilot_situations_per_task": 5, "seconds": 3.0912791999871843, "checks": 500, "predictor_fits": 0, "D_free_bytes": 179550277632}

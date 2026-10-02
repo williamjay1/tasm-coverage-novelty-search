@@ -1,0 +1,6 @@
+{
+  "excess_distant_gain": "Observed paired distant-hit gain minus additional distant slots times the realized distant-pool high-attention rate; ex-post diagnostic, not a causal or model-free success criterion.",
+  "retention": "Ratio of pooled policy hits to pooled baseline hits. Undefined if baseline sum is zero. A development retention constraint is not a held-out guarantee.",
+  "uncertainty": "Organization-resampling intervals condition on the historical years and candidate corpus; shared candidates and four evaluation years limit generalization. Annual and leave-one-year-out results show historical sensitivity, not a four-cluster population confidence interval.",
+  "all_candidates_shared": "Every policy within an organization-year has identical candidate availability and classification/relevance restrictions. Across organizations the opportunity sets differ."
+}

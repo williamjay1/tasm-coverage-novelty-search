@@ -1,0 +1,98 @@
+{
+  "frozen_utc": "2026-10-02T04:33:11.706951+00:00",
+  "frozen": true,
+  "specification": {
+    "schema": "1.0",
+    "scope": "Post hoc frozen-list analysis of previously accessible 2018–2021 outcomes, not independent confirmation or 2022 extension",
+    "tasks": [
+      "battery",
+      "electronics"
+    ],
+    "years": [
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "rankers": [
+      "boosting",
+      "ridge"
+    ],
+    "capacity": 30,
+    "initial_coverage_context": {
+      "low": [
+        0,
+        5
+      ],
+      "middle": [
+        6,
+        12
+      ],
+      "high": [
+        13,
+        30
+      ]
+    },
+    "policies": [
+      "U",
+      "B00_m00",
+      "B03_m00",
+      "B06_m00",
+      "B09_m00",
+      "B12_m00",
+      "B15_m00",
+      "B30_m00",
+      "B09_m03",
+      "B06_m03",
+      "B12_m03",
+      "legacy",
+      "legacy_matched",
+      "task_title_cosine",
+      "core_priority_score"
+    ],
+    "legacy": {
+      "battery": "Exact recorded original_q30 and its realized-coverage matched selection; old supply-capped rule preserved",
+      "electronics": "Recorded fixed_core9_pair3 and fixed_core9; aliases of B09_m03 and B09_m00"
+    },
+    "invariants": [
+      "Exact same identifiers for nonbinding within-C floor",
+      "Same noncore identifiers at fixed C",
+      "Entering_count=max(0,m-novel_count_B(C)) for feasible floor",
+      "All entries unfamiliar core and all removals familiar core at fixed C",
+      "Reconstruct all recorded U and legacy+match task/general/novel/core counts"
+    ],
+    "intervention_known_at_origin": "r=max(0,m-novel_count_B(C)); outcome not used to define contexts or binding",
+    "planned_contrasts": [
+      "B09_m00 minus U",
+      "B09_m03 minus B09_m00",
+      "B12_m03 minus B06_m03",
+      "legacy minus legacy_matched",
+      "Each B(C,m0) minus U"
+    ],
+    "coverage_direction": "Sign(C-C0): expansion, unchanged or contraction, keep every predefined C; no independent inference from stacked allocation cells",
+    "binding_states": "all, binding, nonbinding for within-allocation contrasts; all predefined original contexts retained including empty groups",
+    "ratio": "sum(net task/general selected-document gain)/sum(introduced document events), missing when denominator zero; not future benefit per actual hour",
+    "objectives": [
+      "task_linked",
+      "novel_document_exposure",
+      "general_reach"
+    ],
+    "combined_utility": false,
+    "goal_dominance": "Per-situation observed choices only; mean comparison on common support of U,B9m0,B9m3,C6m3,C12m3,legacy,legacy_match,title,priority; not global Pareto or deployed policy",
+    "feasibility": "Exact C and m, no capping. Every rejected cell retains all supply shortages; electronics prior exclusion leaves only existing admitted 1077 pools plus 5 admission failures with no cached pools",
+    "uncertainty": {
+      "draws_each": 2000,
+      "seed": 2026100217,
+      "organization": "paired resampling with all focal organization years together; percentile ranges",
+      "crossed": "Fixed lists, independent organization and patent Exp(1) product multipliers. Net gain mean denominator complete pool exposure 1/pool_n; ratio denominator introduced-event indicators",
+      "scope": "Overall allocation to9, fixed-C9 novelty, fixed-m3 coverage6to12 and legacy within-match; novelty+legacy also binding-only. Sparse contexts descriptive only",
+      "interpretation": "Crossed uncertainty is dependence sensitivity, no established exact coverage claim"
+    },
+    "predictor_fits": 0,
+    "new_data_downloads": 0,
+    "account_actions": 0,
+    "frozen_2022_protocol_changed": false,
+    "working_drive": "D:",
+    "output_budget_bytes": 100000000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "comparisons": 6,
+  "repeats": 2000,
+  "seed": 20260929,
+  "point_audit": "PASS all12 differences reconcile to matched-summary contrasts within1e-12",
+  "sampling": "Paired resampling of organizations, with replacement, retaining every selected historical situation of each organization. Differences divided by sampled count of situations. Percentile 2.5%/97.5% limits.",
+  "matching": "Identical core slot count and non-core patent IDs in each novelty/blind pair",
+  "limits": "Candidate patents and future outcomes are shared across organizations; only four historical environments. Organization resampling does not remove shared-candidate dependence or establish future transportability, real screening behavior, or a causal novelty effect."
+}

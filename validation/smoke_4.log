@@ -1,0 +1,3 @@
+{"event": "TASK_POINTS", "task": "battery", "policy_rows": 150, "pilot": true}
+{"event": "TASK_POINTS", "task": "electronics", "policy_rows": 300, "pilot": true}
+{"event": "PILOT_PASS", "pilot": true, "situations_per_task": 5, "seconds": 3.552870100014843, "checks": 150, "checks_passed": true, "D_free_bytes": 179552960512, "predictor_fits": 0}

@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "seconds": 3.072546899988083,
+  "candidate_label_rows": 66147,
+  "selected_events_per_window": 191100,
+  "label_source": "results\\revision_v8\\mature_window_candidate_labels.parquet",
+  "label_sha256": "ec4004e11d870803848639304e0cff46c12d4aac2de93481e48c93785c531452",
+  "scope": "Reproduces fixed-list 2/3/5-year statistics from archived candidate labels. Does not reconstruct citation edges, task code flags or five-year validity from raw source tables.",
+  "old_three_year_indicator_mismatches": 0,
+  "raw_edge_dependencies_used": false
+}

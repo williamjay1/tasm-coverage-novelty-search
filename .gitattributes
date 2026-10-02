@@ -1,0 +1,4 @@
+* -text
+*.part -diff
+*.parquet -diff
+*.duckdb -diff

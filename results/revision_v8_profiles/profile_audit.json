@@ -1,0 +1,44 @@
+{
+  "status": "PASS",
+  "samples": {
+    "battery": {
+      "situations": 356,
+      "owners": 114
+    },
+    "electronics": {
+      "situations": 1077,
+      "owners": 371
+    }
+  },
+  "exact_v7_admission_recovered": true,
+  "all_history_counts_recovered": true,
+  "all_classification_coverage_recovered": true,
+  "battery_v4_breadth_recovered": true,
+  "no_outcome_use": true,
+  "no_type_inference": true,
+  "no_new_download": true,
+  "electronics_excluded_history_eligible": 5,
+  "elapsed_seconds": 4.567761699989205,
+  "overlap": {
+    "battery_owner_keys": 114,
+    "electronics_owner_keys": 371,
+    "owner_intersection": 53,
+    "owner_union": 432,
+    "battery_only_owner_keys": 61,
+    "electronics_only_owner_keys": 318,
+    "organization_year_intersection": 156,
+    "organization_year_union": 1277,
+    "history_grants_battery": 388887,
+    "history_grants_electronics": 835327,
+    "history_grants_intersection": 347879,
+    "note": "History grant unions are unique grants across all included preceding-five-year portfolios; co-owners and windows overlap. They are not candidate/selected-document overlap."
+  },
+  "owner_name_audit": {
+    "n_unique_sample_owner_keys": 432,
+    "n_keys_with_multiple_literal_names": 420,
+    "max_literal_names_per_key": 133,
+    "literal_names_total": 4204,
+    "verified_firm_university_institute_typology": false,
+    "reason": "Profiles do not retain a verified organizational form or industry variable. Source assignee_type is present in original schemas and the retrospective assignee export but is not a validated firm/university/institute classification; names are not used as type labels."
+  }
+}

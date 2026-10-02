@@ -1,0 +1,8 @@
+{
+  "stage": "Post-critique purposeful diagnostic after sparse core-citation linkage was found",
+  "selection": "Two explicitly requested candidates, US10717367 and US10889157, representing battery charging thermal control and vehicle battery cooling among the observed core-linked cross-subclass additions.",
+  "representative": false,
+  "blinded": false,
+  "purpose": "Assess the distinction between candidate at-issue H01M coding and explicit battery thermal function. Do not change classification labels or estimate prevalence.",
+  "future": "Core citations displayed separately; outcome-informed selection does not validate technical transfer or algorithm use."
+}

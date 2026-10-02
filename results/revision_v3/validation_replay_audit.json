@@ -1,0 +1,18 @@
+{
+  "derived_replay_utc": "2026-09-30T18:50:05.600213+00:00",
+  "source_database_access": false,
+  "inputs": [
+    "results/revision_v3/validation_selected.parquet",
+    "results/revision_v3/validation_selection_lock.json",
+    "datasets/revision_v3/validation_labels.parquet"
+  ],
+  "selected_sha256": "439bd09a01d8edbb43eb004a4e2784972ad133ed26613a2cb5bb994564e16a68",
+  "labels_sha256": "ddc9fa1a4ec49bdca9815a3dd13c685e7fd528de589fc6116546623d4250c854",
+  "outputs": [
+    "validation_detail.parquet",
+    "validation_summary.csv",
+    "validation_contrasts.csv",
+    "validation_annual.csv"
+  ],
+  "preserved_measurement_evidence": "Prepared histories, outcome edges, protocol, capacity and overlap audits are supplied unchanged; this replay aggregates frozen lists/labels rather than reconstructing raw measurements."
+}

@@ -1,0 +1,9 @@
+{
+  "scope": "Development exploratory; all years/lists/rankers fixed; no exact CI coverage or future environmental inference",
+  "independent_units": "Organizations, not lists. Recurrent patent effects examined with independent organization and patent Exp(1) product multipliers",
+  "denominator": "Complete pool candidate exposure1/pool_n within each feasible situation; includes unselected candidates",
+  "contribution_file": "development_uncertainty_contributions.parquet contains changed-ID signed numerator contributions; development_pools.parquet contains all per-situation complete-pool denominator exposures",
+  "contexts": "Sparse boundary groups receive descriptive results only; no between-group hypothesis test",
+  "source_contribution_audit": "Exact task/general recovery all primary comparisons",
+  "rows": 40
+}

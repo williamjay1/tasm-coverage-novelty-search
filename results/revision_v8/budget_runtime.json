@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "seconds": 56.22249770001508,
+  "policy_rows": 111700,
+  "selected_events": 3522080,
+  "feasibility_rows": 37258,
+  "checks": 71608,
+  "predictor_fits": 0,
+  "new_source_acquisition": 0
+}

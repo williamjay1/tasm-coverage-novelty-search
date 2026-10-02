@@ -1,0 +1,25 @@
+{
+  "n_situations": 356,
+  "history_n_reconciliation_mismatches": 0,
+  "n_clean_situations": 61,
+  "native_codes": "CPC/IPC at issue; no invented old-to-new finer code map",
+  "clean_definition": "Every prior-five-year core grant has a native thermal CPC group and none has an H01M10/50 code in either CPC or IPC",
+  "fixed_list_keys": [
+    "organization_id",
+    "year",
+    "boundary",
+    "model"
+  ],
+  "pool_forecast_selection_refit": false,
+  "q_values": [
+    0,
+    0.3
+  ],
+  "outcomes": {
+    "general": "future_external_signal_2org",
+    "applicant": "future_applicant_signal_2org",
+    "core1": "future_core_signal_1patent"
+  },
+  "interpretation": "Non-random history-coverage subset diagnosis; no stronger external-validity or causal claim",
+  "core_newpair_definition": "New pair among full four-character CPC/IPC union subclasses, compared to prior-five-year code-core grants; distinct from fine thermal-group novelty"
+}

@@ -1,0 +1,11 @@
+{
+  "completed_utc": "2026-09-30T18:34:21.541875+00:00",
+  "all_34_records_complete": true,
+  "unique_patents": 30,
+  "original_18_records_exactly_preserved": true,
+  "all_9_technical_fields_nonempty": true,
+  "new_sample_ids_unchanged_sha256": "d962e7812ae346a5dbfe62e7a7750daae87ccc6e364e9b26605eaf2760de70dd",
+  "future_outcomes_loaded_by_render": false,
+  "new_grant_kind_metadata_checked": "All14 unique sampled patents have B2 in retained complete grant metadata",
+  "limits": "AI-assisted title/abstract desk interpretation; no independent human validation or full claims/performance audit"
+}

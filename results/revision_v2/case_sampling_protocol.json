@@ -1,0 +1,24 @@
+{
+  "stage": "post-critique exploratory construct audit",
+  "created_before_case_text_inspection": true,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "model": "boosting",
+  "capacity": 30,
+  "policy": "quota_0.3",
+  "strata": [
+    "added_signal",
+    "added_no_signal",
+    "removed_signal",
+    "unchanged"
+  ],
+  "selection": "Within each year and stratum, ascending organization_id then numeric patent_id; select first record. For unchanged choose first organization and first numeric-ID selected patent. Missing strata remain missing.",
+  "pair": "For each changed case choose first numeric-ID opposite-operation patent in the same organization-year, regardless of its outcome.",
+  "historical_examples": "The latest two coded-core grants in the preceding five complete years, date descending then numeric ID ascending.",
+  "judgment": "Read candidate title/abstract and at-issue classes plus historical core examples; do not use citations or later patents to justify technical connection. Outcome-stratified selection means this exercise is not blinded validation.",
+  "labels": "Future outcomes exported separately. No citation signal is not evidence of uselessness; a signal is not adoption or applicability."
+}

@@ -1,0 +1,76 @@
+{
+  "status": "PASS",
+  "seconds": 4.302360100002261,
+  "origins": [
+    2018,
+    2019
+  ],
+  "horizons": [
+    2,
+    3,
+    5
+  ],
+  "candidate_label_rows": 66147,
+  "selected_events_per_window": 191100,
+  "sources": [
+    {
+      "task": "battery",
+      "included_candidates": 13481,
+      "complete_five_year_filtered_edges": 19798
+    },
+    {
+      "task": "electronics",
+      "included_candidates": 8568,
+      "complete_five_year_filtered_edges": 9897
+    }
+  ],
+  "checks": [
+    {
+      "task": "battery",
+      "check": "three_year_rebuild_task_linked",
+      "candidate_ids": 13481,
+      "mismatches": 0
+    },
+    {
+      "task": "battery",
+      "check": "three_year_rebuild_general_reach",
+      "candidate_ids": 13481,
+      "mismatches": 0
+    },
+    {
+      "task": "electronics",
+      "check": "three_year_rebuild_task_linked",
+      "candidate_ids": 8568,
+      "mismatches": 0
+    },
+    {
+      "task": "electronics",
+      "check": "three_year_rebuild_general_reach",
+      "candidate_ids": 8568,
+      "mismatches": 0
+    },
+    {
+      "task": "battery",
+      "check": "five_year_old_cache_task_linked",
+      "candidate_ids": 13481,
+      "mismatches": 0
+    },
+    {
+      "task": "battery",
+      "check": "five_year_old_cache_general_reach",
+      "candidate_ids": 13481,
+      "mismatches": 0
+    },
+    {
+      "check": "window_monotonicity_task_linked",
+      "passed": true
+    },
+    {
+      "check": "window_monotonicity_general_reach",
+      "passed": true
+    }
+  ],
+  "scope": "Identical2018–2019 origin situations/lists for2/3/5 windows; 2020/2021 never labeled as complete five-year observations",
+  "three_year_values_all_recovered": true,
+  "new_raw_scans": 0
+}

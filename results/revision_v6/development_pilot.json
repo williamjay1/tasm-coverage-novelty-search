@@ -1,0 +1,26 @@
+{
+  "organization_id": "EVEREADYBATTERYCOMPANYINC",
+  "year": 2013,
+  "history_n": 160,
+  "core_history_n": 3,
+  "classification_coverage": 1.0,
+  "pool_n": 829,
+  "core_pool_n": 84,
+  "pilot_seconds": 0.18980849999934435,
+  "total_seconds": 0.48424570000497624,
+  "baseline_core_positions": {
+    "boosting": 0,
+    "ridge": 1
+  },
+  "recovery_checks": {
+    "history_n": true,
+    "core_history_n": true,
+    "pool_n": true,
+    "core_pool_n": true,
+    "classification_coverage": true
+  },
+  "novel_core_supply": 11,
+  "policy_rows": 50,
+  "selection_events": 1500,
+  "status": "PASS"
+}

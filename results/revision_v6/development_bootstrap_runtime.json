@@ -1,0 +1,11 @@
+{
+  "seconds": 4.714967700012494,
+  "draws_per_method": 2000,
+  "methods": 2,
+  "comparisons_per_model": 5,
+  "rankers": 2,
+  "metrics": 2,
+  "rows": 40,
+  "seed": 20261002,
+  "predictor_fits": 0
+}

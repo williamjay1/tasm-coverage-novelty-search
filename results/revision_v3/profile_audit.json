@@ -1,0 +1,29 @@
+{
+  "original_situations": 356,
+  "common_situations": 356,
+  "profiles": [
+    {
+      "profile": "actual",
+      "n": 356,
+      "feasible": 356,
+      "median_pool": 1554.5,
+      "mean_pool_overlap": 1.0
+    },
+    {
+      "profile": "generic",
+      "n": 356,
+      "feasible": 356,
+      "median_pool": 3555.0,
+      "mean_pool_overlap": 0.3706277762948934
+    },
+    {
+      "profile": "matched_donor",
+      "n": 356,
+      "feasible": 356,
+      "median_pool": 1551.5,
+      "mean_pool_overlap": 0.32280711722567523
+    }
+  ],
+  "donor_core_history_overlap_situations": 1,
+  "claim": "Exploratory profile admission diagnostic; no task mandate or adoption validation."
+}

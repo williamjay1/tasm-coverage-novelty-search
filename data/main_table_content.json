@@ -1,0 +1,168 @@
+{
+  "source": "v8 main table content",
+  "source_sha256": "8fb1a82c01e06672eb445c9240bb3fa3f30cb1f2d30c7dc5bdf3893c119cc17a",
+  "tables": [
+    {
+      "number": 1,
+      "caption": "Table 1. Concepts and symbols used in the replay",
+      "headers": [
+        "Concept and symbol",
+        "Definition and measurement",
+        "Decision informed"
+      ],
+      "rows": [
+        [
+          "Document budget K; task coverage C0 and C",
+          "K is list length; C0 is the baseline's task-document count; C is the proposed or realized count",
+          "Identify the task positions added or displaced under a finite budget"
+        ],
+        [
+          "Baseline U and coverage match B(C)",
+          "U follows frozen scores; B(C) selects C task documents by those scores",
+          "Attribute the change reproduced by task allocation"
+        ],
+        [
+          "Unfamiliarity and exposure",
+          "A core document contains a subclass combination absent from preceding core history; exposure counts such selected documents",
+          "Record unfamiliar documentary inputs, without measuring cognition or distinct new combinations"
+        ],
+        [
+          "Unfamiliar minimum m and list N(C,m)",
+          "Require at least m unfamiliar core documents at C, preserving B(C)'s noncore identifiers",
+          "Assess selection within the same task allocation"
+        ],
+        [
+          "Shortfall d and a binding requirement",
+          "d=max{0,m−n_B(C)}, where n_B(C) counts unfamiliar core documents in B(C); binding means d>0",
+          "Identify whether a feasible rule actually exchanges documents"
+        ],
+        [
+          "Task-linked documents",
+          "Selected documents cited by an external task-core grant in the observation window; means are per list and totals are selection events",
+          "Compare recorded task links gained and lost, rather than inventions or adoption"
+        ],
+        [
+          "General reach",
+          "Selected documents cited by at least two external organizations in the observation window",
+          "Retain broader archival reach as a separate objective"
+        ],
+        [
+          "Handoff state",
+          "Source-supported direct function, mechanism analogy, unsupported match or unresolved evidence",
+          "Specify the next technical question; routes remain proposed"
+        ]
+      ],
+      "note": "Note. The main replay uses K=30 and three subsequent grant years. Repeated selection of a patent in different screens remains separate events. Strict C,m comparisons require adequate task, noncore and unfamiliar supply. The shortfall equals actual exchanges only for the specified deterministic selector; it predicts an action, not its value."
+    },
+    {
+      "number": 2,
+      "caption": "Table 2. Allocation and within-allocation outcomes of the novelty reservation",
+      "headers": [
+        "Ranking",
+        "Allocation task-link gain",
+        "Within-allocation task-link gain",
+        "Within-allocation unfamiliar exposure",
+        "Within-allocation general-reach gain",
+        "Reproduced task-link share"
+      ],
+      "rows": [
+        [
+          "Primary",
+          "+1.396",
+          "+0.051",
+          "+3.697",
+          "+0.295",
+          "96.5%"
+        ],
+        [
+          "Alternative",
+          "+1.157",
+          "+0.230",
+          "+3.146",
+          "+0.152",
+          "83.4%"
+        ]
+      ],
+      "note": "Note. Means per 30-document list over the same 356 situations. Allocation contrasts compare the coverage match with baseline; within-allocation contrasts compare the novelty reservation with its coverage match. Unfamiliar exposure counts documents with an unseen core combination, not unique combinations. General reach counts documents cited by at least two external organizations. Task-linked event totals are 921/1,418/1,436 under baseline/match/novelty for the primary ranking and 1,050/1,462/1,544 for the alternative. Reproduced shares are 497/515 and 412/494. Each policy supplies 10,680 document occurrences. Repeated document selections remain separate events. The matched lists preserve the novelty lists' core counts and all noncore identifiers."
+    },
+    {
+      "number": 3,
+      "caption": "Table 3. Actual novelty exchanges at nine task positions",
+      "headers": [
+        "Task and ranking",
+        "Binding screens",
+        "Introduced documents",
+        "Net task links per introduced document",
+        "Net general reach per introduced document"
+      ],
+      "rows": [
+        [
+          "Battery, primary",
+          "56/356",
+          "89",
+          "−0.056",
+          "−0.112"
+        ],
+        [
+          "Battery, alternative",
+          "36/356",
+          "47",
+          "−0.170",
+          "−0.128"
+        ],
+        [
+          "Electronics, primary",
+          "45/1077",
+          "58",
+          "+0.103",
+          "−0.069"
+        ],
+        [
+          "Electronics, alternative",
+          "14/1077",
+          "15",
+          "−0.133",
+          "−0.200"
+        ]
+      ],
+      "note": "Note. N(9,3) versus B(9), with equal core positions and noncore identifiers. Binding is defined by the unfamiliar shortfall at origin, not by subsequent links. The ratios divide net linked-document gains, after subtracting removed documents, by introduced document events. They are not citation counts or unique inventions. All nonbinding lists remain identical; full all-screen, binding and nonbinding estimates, organization ranges and crossed sensitivities are retained in the supplement."
+    },
+    {
+      "number": 4,
+      "caption": "Table 4. Proposed routes from shortlist to technical assessment",
+      "headers": [
+        "Route",
+        "Evidence packet",
+        "Next assessment",
+        "Gate for the current task"
+      ],
+      "rows": [
+        [
+          "Direct function",
+          "Documented task object and thermal path; disclosed interfaces and limits; missing conditions flagged",
+          "Task engineer checks contact, insulation, leakage and operating envelope",
+          "Advance to technical feasibility review when the documented function matches the need"
+        ],
+        [
+          "Mechanism analogy",
+          "Documented source function; candidate transferable principle; differences in medium, geometry and conditions",
+          "Appropriate specialist identifies adaptations and requirements for the target application",
+          "Advance as an adaptation question, with unresolved transfer conditions recorded"
+        ],
+        [
+          "Unsupported match",
+          "Text showing a different object or function; no task-relevant transfer principle identified in the text examined",
+          "Analyst records the mismatch and checks any separate documented justification",
+          "Close the current task track unless further text establishes a relevant function or transfer principle"
+        ],
+        [
+          "Unresolved evidence",
+          "Missing function or thermal path; exact text or claims required to decide",
+          "Analyst retrieves the specified description or claims, or defers the candidate",
+          "Keep unresolved until sufficient evidence supports another route"
+        ]
+      ],
+      "note": "Note. Routes are proposed evidence and action states illustrated by historical desk assessment. They are not measured classification accuracies, expert endorsements or tested staffing arrangements. An organization's distribution of the analyst and reviewer responsibilities may vary."
+    }
+  ]
+}

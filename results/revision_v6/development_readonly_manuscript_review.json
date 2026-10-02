@@ -1,0 +1,20 @@
+{
+  "scope": "Read-only scientific review of TASM_manuscript_revised_v6.md sections 3.4 and 4.4 and Table 3",
+  "status": "CONTENT_GO",
+  "checks": {
+    "60_situations_26_organizations_2013_2015": "PASS",
+    "context_counts_55_4_1_and_52_5_3": "PASS",
+    "fixed_coverage_threshold_endpoints": "PASS",
+    "absolute_m_is_document_floor_not_distinct_pairs": "PASS",
+    "fixed_m_does_not_fix_realized_unfamiliar_exposure": "PASS",
+    "legacy_supply_cap_and_strict_q9_five_shortfalls": "PASS",
+    "all_16_Table3_mean_deltas": "PASS",
+    "C9_m3_binding_14_and_3_lists_and_task_0_minus2_events": "PASS",
+    "organization_and_crossed_interval_three_decimal_rounding": "PASS",
+    "lexical_core_title_and_core_priority_comparator_means": "PASS",
+    "sparse_groups_descriptive_not_independent_validation": "PASS"
+  },
+  "necessary_numerical_repairs": [],
+  "optional_precision": "The reversal relative to later evaluation refers to the Alternative/Ridge sign, not the Primary/Boost sign; saying alternative-ranking reversal is clearer.",
+  "method_boundary": "No new predictors or raw downloads; exploratory earlier archive, no completed new 2022 experiment; crossed ranges remain fixed-list dependence sensitivity, not exact environmental confidence intervals."
+}

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite this code and data release; the study DOI will be added after the author completes Zenodo archiving."
+type: software
+title: 'Replication materials for "Evaluating coverage and novelty in technology intelligence"'
+version: 1.0.0
+date-released: 2026-10-02
+repository-code: "https://github.com/williamjay1/tasm-coverage-novelty-search"
+url: "https://github.com/williamjay1/tasm-coverage-novelty-search"
+license: [MIT, CC-BY-4.0]
+authors:
+  - family-names: Zhang
+    given-names: Junjie
+    orcid: "https://orcid.org/0009-0004-8821-4018"
+    email: "junjiezhang2024@shisu.edu.cn"
+    affiliation: "Shanghai Academy of Global Governance & Area Studies; School of Economics and Finance, Shanghai International Studies University, Shanghai 201620, China"
+abstract: "Research software and CC BY 4.0 patent-derived archival data for evaluating task coverage and recorded novelty in finite technology-intelligence shortlists. Source data DOI 10.5281/zenodo.15058362 identifies the acquired USPTO release, not this study release. Software is MIT; data and figures are CC BY 4.0. No study DOI has yet been assigned."
+keywords:
+  - technology intelligence
+  - organizational search
+  - patent analytics
+  - machine learning
+  - task allocation

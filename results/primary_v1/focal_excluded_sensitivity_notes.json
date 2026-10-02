@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "analysis_timing": "Post-evaluation measurement sensitivity; no model or policy reselection",
+  "unique_selected_patents": 2500,
+  "organization_patent_pairs": 21065,
+  "pairs_with_changed_counts": 82,
+  "primary_label_reconstruction": "All selected patent counts match canonical counts exactly",
+  "exclusion": "Discard entire citing edge if any citing owner is the focal searching organization; then recount distinct citing organizations and apply >=2",
+  "fixed_sample": 356
+}

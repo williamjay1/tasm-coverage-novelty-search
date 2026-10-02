@@ -1,0 +1,9 @@
+task,year,n_situations,n_owner_keys
+battery,2018,72,72
+battery,2019,86,86
+battery,2020,96,96
+battery,2021,102,102
+electronics,2018,225,225
+electronics,2019,254,254
+electronics,2020,286,286
+electronics,2021,312,312

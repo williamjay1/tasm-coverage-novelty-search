@@ -1,0 +1,7 @@
+model,group,n_situations,n_organizations,point,repeats,seed,method,lower,upper,status
+boosting,high_gt5pct,109,39,0.1743119266055046,2000,20261001,paired_organization_percentile,-0.018026283163897844,0.39805825242718446,computed
+boosting,low_lt2pct,199,68,0.05025125628140704,2000,20261001,paired_organization_percentile,-0.07272947925860547,0.1789573798627002,computed
+boosting,middle_2_to5pct_inclusive,48,19,-0.22916666666666666,2000,20261001,paired_organization_percentile,-0.4423611111111111,-0.037037037037037035,computed
+ridge,high_gt5pct,109,39,0.29357798165137616,2000,20261001,paired_organization_percentile,0.15452797202797203,0.4363920454545453,computed
+ridge,low_lt2pct,199,68,0.21105527638190955,2000,20261001,paired_organization_percentile,0.12315081470253884,0.3048240923163523,computed
+ridge,middle_2_to5pct_inclusive,48,19,0.16666666666666666,2000,20261001,paired_organization_percentile,-0.1111111111111111,0.4339622641509434,computed

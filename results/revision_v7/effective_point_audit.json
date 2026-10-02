@@ -1,0 +1,30 @@
+{
+  "status": "PASS",
+  "predictor_fits": 0,
+  "new_downloads": 0,
+  "policy_rows": 42928,
+  "selected_events": 1287840,
+  "pool_exposures": 1503382,
+  "task_situations": {
+    "battery": 356,
+    "electronics": 1077
+  },
+  "checks": 22210,
+  "timing": [
+    {
+      "task": "battery",
+      "load_and_point_seconds": 7.715953999984777,
+      "processed_situations": 356
+    },
+    {
+      "task": "electronics",
+      "load_and_point_seconds": 16.490900800010422,
+      "processed_situations": 1077
+    }
+  ],
+  "point_seconds": 28.59323040000163,
+  "D_free_bytes": 137447243776,
+  "2022_protocol_unchanged": true,
+  "output_bytes": 28769334,
+  "implementation_note": "Semantic label correction: n_binding only defined for within-coverage novelty contrasts; n_changed records all exchanges. No selection, groups, outcomes or uncertainty changed."
+}

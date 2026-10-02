@@ -1,0 +1,145 @@
+{
+  "frozen": true,
+  "frozen_utc": "2026-10-02T07:52:39.584769+00:00",
+  "specification": {
+    "status": "Supplementary post hoc checks on archive and outcomes already examined; no independent confirmation, pre-registration or 2022 analysis",
+    "tasks": [
+      "battery",
+      "electronics"
+    ],
+    "rankers": [
+      "boosting",
+      "ridge"
+    ],
+    "years": [
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "configurations": [
+      {
+        "axis": "capacity_absolute",
+        "K": 20,
+        "C": 9,
+        "m": 3
+      },
+      {
+        "axis": "capacity_absolute",
+        "K": 30,
+        "C": 9,
+        "m": 3
+      },
+      {
+        "axis": "capacity_absolute",
+        "K": 50,
+        "C": 9,
+        "m": 3
+      },
+      {
+        "axis": "capacity_fractional",
+        "K": 20,
+        "C": 6,
+        "m": 2
+      },
+      {
+        "axis": "capacity_fractional",
+        "K": 30,
+        "C": 9,
+        "m": 3
+      },
+      {
+        "axis": "capacity_fractional",
+        "K": 50,
+        "C": 15,
+        "m": 5
+      },
+      {
+        "axis": "floor_at9",
+        "K": 30,
+        "C": 9,
+        "m": 0
+      },
+      {
+        "axis": "floor_at9",
+        "K": 30,
+        "C": 9,
+        "m": 3
+      },
+      {
+        "axis": "floor_at9",
+        "K": 30,
+        "C": 9,
+        "m": 6
+      },
+      {
+        "axis": "floor_at9",
+        "K": 30,
+        "C": 9,
+        "m": 9
+      },
+      {
+        "axis": "allocation_floor3",
+        "K": 30,
+        "C": 3,
+        "m": 3
+      },
+      {
+        "axis": "allocation_floor3",
+        "K": 30,
+        "C": 9,
+        "m": 3
+      },
+      {
+        "axis": "allocation_floor3",
+        "K": 30,
+        "C": 15,
+        "m": 3
+      }
+    ],
+    "pairing": "Each configuration has unrestricted U(K), score-only B(K,C), and same-C/same-noncore N(K,C,m). No arbitrary Cartesian grid.",
+    "budget_axes": "Fixed C9,m3 across K20/30/50; separately fixed .30 core share and .10 unfamiliar minimum, exact 6/2,9/3,15/5. These estimate distinct changes.",
+    "capacity_common_support": "Within every task/ranker/axis, use situations feasible for every listed configuration before comparing the parameter curve. Report individual feasible support as well.",
+    "strict_feasibility": "Keep candidate, core, noncore, unfamiliar and m>C failures; never cap strict rules. Existing electronic admission failures remain original exclusions.",
+    "existing_allocation_values": "V7 already gives C6/12 at m3 and all C0/3/6/9/12/15/30 m0. New focal allocation comparisons add only C3/15 m3 with C9 anchor.",
+    "inference_family": "Exactly four 3-year task-link mean contrasts N(30,9,3)-B(30,9): two tasks by two rankers, all feasible fixed pools",
+    "inference": {
+      "draws_each": 4000,
+      "seed": 2026100281,
+      "organization": "Shared global normalized organization keys per draw; all years/tasks/rankers retain shared sampled counts",
+      "crossed": "Shared global organization and patent Exp(1) multipliers per draw. Fixed-list signed numerators; complete-pool 1/pool_n denominators.",
+      "simultaneous_range": "Centered maximum standardized absolute bootstrap departure over four contrasts; common 95th percentile critical value times each empirical bootstrap SD. No p-values or guarantees of exact nominal coverage.",
+      "scope": "Organization ranges are approximate bootstrap simultaneous intervals; crossed counterparts are simultaneous fixed-list dependence sensitivities."
+    },
+    "random_reference": {
+      "K": 30,
+      "C": 9,
+      "m_min": 3,
+      "exact_matching": "Same noncore IDs and same actual unfamiliar-core count as deterministic N9m3; uniform sampling without replacement separately among unfamiliar and familiar core candidates",
+      "main": "Analytic exact expected task/general yield under the matched uniform reference",
+      "monte_carlo_seeds": 100,
+      "interpretation": "Descriptive random reference for ranking within feasible composition, not causal placebo. Seeds add no independent organizations."
+    },
+    "window_check": {
+      "origins": [
+        2018,
+        2019
+      ],
+      "grant_year_windows": [
+        2,
+        3,
+        5
+      ],
+      "lists": "Fixed old U/B9m0/N9m3/legacy/match lists; identical origin situations for all windows",
+      "maturity": "Release ends2024-12-31; 2020/2021 excluded from every horizon comparison including shorter horizons, so all five-year windows complete",
+      "filters": "Original known citing-owner, no owner overlap, no same application, future citing-grant dates; original CPC/IPC task flags",
+      "mandatory_validation": "New 3-year task/general indicators equal every old label for the included candidate IDs; five-year battery also matches old cached five-year labels"
+    },
+    "predictor_fits": 0,
+    "new_downloads": 0,
+    "new_account_actions": 0,
+    "frozen_2022_protocol_mutation": false,
+    "output_limit_bytes": 1000000000,
+    "working_drive": "D:"
+  }
+}

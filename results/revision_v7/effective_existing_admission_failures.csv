@@ -1,0 +1,6 @@
+task,organization_id,year,status,pool_n,core_pool_n,novel_core_supply,not_reconstructed
+electronics,INPHICORPORATION,2018,pool_below50,37,6,3,True
+electronics,INPHICORPORATION,2019,pool_below50,47,7,6,True
+electronics,DELPHITECHNOLOGIESINC,2020,pool_below50,32,2,2,True
+electronics,INPHICORPORATION,2020,pool_below50,48,7,6,True
+electronics,REDCOMLLC,2021,pool_below50,45,18,14,True

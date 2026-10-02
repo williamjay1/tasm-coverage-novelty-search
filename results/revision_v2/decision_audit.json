@@ -1,0 +1,44 @@
+{
+  "status": "PASS",
+  "year_audits": [
+    {
+      "year": 2018,
+      "decisions": 72,
+      "title_vocabulary": 18143,
+      "training_max_year": 2015,
+      "checked_policy_rows": 2232
+    },
+    {
+      "year": 2019,
+      "decisions": 86,
+      "title_vocabulary": 20000,
+      "training_max_year": 2016,
+      "checked_policy_rows": 2666
+    },
+    {
+      "year": 2020,
+      "decisions": 96,
+      "title_vocabulary": 20000,
+      "training_max_year": 2017,
+      "checked_policy_rows": 2976
+    },
+    {
+      "year": 2021,
+      "decisions": 102,
+      "title_vocabulary": 20000,
+      "training_max_year": 2018,
+      "checked_policy_rows": 3162
+    }
+  ],
+  "checked_policy_rows": 11036,
+  "saved_boost_lists_exact": true,
+  "all_model_metrics_exact": true,
+  "random_repeats": 500,
+  "seed": 20260930,
+  "scope": "Post-critique extension; unchanged v1 pools/scores/rules; no outcome selection",
+  "cost_order": "Original quota_select reservation-first order; topk score order; MMR greedy order. Prefix of each original K30 list stops before budget exceeded. Cost multipliers are hypothetical, not measured time.",
+  "random": "Lock original unfamiliar selections, exact deterministic removed set and replacement count; draw uniformly without replacement from unfamiliar candidates outside baseline. Replicate intervals measure random comparator variation, not inference uncertainty.",
+  "nondominance": "Historical mean points over evaluated options; no universal optimality or statistical dominance claim.",
+  "utility": "T+(lambda-1)U; familiar signal weight=1, unfamiliar weight=lambda; scenario values not commercial value.",
+  "cost_reference": "Within each multiplier, equally budget-truncated topk list of the same ranker"
+}

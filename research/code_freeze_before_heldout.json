@@ -1,0 +1,66 @@
+[
+  {
+    "Path": "<project>\\scripts\\acquire_patents.py",
+    "Hash": "0D3438E7AFC47E45EF0F7DED098E87475AE25AB7A74303C326CA67207BA410AC"
+  },
+  {
+    "Path": "<project>\\scripts\\build_patent_subset_audit.py",
+    "Hash": "147E1D0CE3CD904C5EC9C1D4E256887950F347FD4C05D965CC9AC5C0754EDDCB"
+  },
+  {
+    "Path": "<project>\\scripts\\build_patent_subset.py",
+    "Hash": "3245B0E141C8D0510C16E2D50FBF927C97584A54234C9AF3FE32460DF858239E"
+  },
+  {
+    "Path": "<project>\\scripts\\check_label_adapter.py",
+    "Hash": "D4C959A6EA749DCE8C19FF298614FB12C80650ED3732557090AF2ACB060900F9"
+  },
+  {
+    "Path": "<project>\\scripts\\check_pipeline_synthetic.py",
+    "Hash": "2AA10C40FA40C87B370506B8DC0BBDB14DB6E64FD8BDEDACF824D46CECA0F89E"
+  },
+  {
+    "Path": "<project>\\scripts\\check_policy_core.py",
+    "Hash": "B8FCAADF85C1E2DD12184E209EE6A0C9E8819EB06F9221FBD0B95655EBE13C17"
+  },
+  {
+    "Path": "<project>\\scripts\\context_and_uncertainty.py",
+    "Hash": "586E8923B4C17F49E0BFC7D7E3B3639E0002D291827F4C96316826C98ADC9272"
+  },
+  {
+    "Path": "<project>\\scripts\\evaluate_label_sensitivity.py",
+    "Hash": "11088A8723A7F6C699F5B1D2F260843E9157EFDBCE7ECECA2C26562FE5547833"
+  },
+  {
+    "Path": "<project>\\scripts\\literature_acquire.py",
+    "Hash": "27116327E88D7E926FA2BF9093E40C688C9B01040811019C10ACD48FFB897819"
+  },
+  {
+    "Path": "<project>\\scripts\\literature_bib.py",
+    "Hash": "B3589C834AECCBD8CFA5D420798CE7358EF7FBC572233C3A8ED58B4C57988B1E"
+  },
+  {
+    "Path": "<project>\\scripts\\literature_download.py",
+    "Hash": "7EC7DCFB6975D3FACD054C6D389A4BE95A93E3497A87665FD058F1D6145671D9"
+  },
+  {
+    "Path": "<project>\\scripts\\make_study_figures.py",
+    "Hash": "991FCBB575F24C7BD49C558F3D0D1992668A220B500E854033D307D8DB56B5A7"
+  },
+  {
+    "Path": "<project>\\scripts\\policy_core.py",
+    "Hash": "FB5EE71C3C3DFEC5D5A5940464B8C092B6768B1B5FE7142D5120746A20F3343C"
+  },
+  {
+    "Path": "<project>\\scripts\\prepare_study_data.py",
+    "Hash": "C9DFA60DF89D2692D14E6BEBEFAF2B9081739D33822CDA467F1E684FD0CA50F0"
+  },
+  {
+    "Path": "<project>\\scripts\\run_search_study.py",
+    "Hash": "E06640294ADB53A465665EDC910061D9CB6190D188799F2FC839F9D4D09D1F22"
+  },
+  {
+    "Path": "<project>\\scripts\\summarize_tradeoffs.py",
+    "Hash": "ED1F00D19DD00B9BB89F9A225BB223B6F31C389995D7BFE2BC56DC107B51192B"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "path": "results/revision_v4/heterogeneity_origin_features.parquet",
+    "bytes": 22054,
+    "sha256": "55ebcf1897fbde68462414a7cc3fe424c466d975a394448207be8bb74724bff0"
+  },
+  {
+    "path": "results/revision_v3/validation_situations.parquet",
+    "bytes": 28660,
+    "sha256": "05cfafaeaf64b75ebc90529c278fefd371b20974adf4d774eb0ced3ab4811d38"
+  },
+  {
+    "path": "results/revision_v7/effective_policy_detail.parquet",
+    "bytes": 142361,
+    "sha256": "7fc3dafde172580e2ef75be84921bcbc26fa027c2de7e892db2380026ab5c469"
+  },
+  {
+    "path": "datasets/canonical_v1/study_portfolios.parquet",
+    "bytes": 41878981,
+    "sha256": "a509a19937de5558b6363f2b178bdeb96bfd34c416add5df389d40e6660dabe1"
+  },
+  {
+    "path": "datasets/revision_v3/validation_portfolios.parquet",
+    "bytes": 71682736,
+    "sha256": "7f3eb1654675017e4113a25fbf4e705880f52cd07f0eba5b4bdbb7ab9ff98500"
+  },
+  {
+    "path": "datasets/patent_organization_name_audit.json",
+    "bytes": 369,
+    "sha256": "8f95d5c494444a721abf18f7d2f3e283b52465cb094333c49222ffa7d8669581"
+  },
+  {
+    "path": "datasets/patent_schemas.json",
+    "bytes": 1691,
+    "sha256": "a8f7c09209a74af211fdb2b09a39605af195d39ff294ee5610dd6b90f8cb6d46"
+  },
+  {
+    "path": "replication_manifest_revised_v6.json",
+    "bytes": 98948,
+    "sha256": "abff473382bb7106a60279e8367daa9f6d43623c3765cc02bb805ecdbbf92333"
+  },
+  {
+    "path": "replication_manifest_revised_v7.json",
+    "bytes": 7220,
+    "sha256": "fdf5d7277f750fdbdcdc72894ca9c60aba3f92292efc3395a504390c7eb26bf6"
+  }
+]

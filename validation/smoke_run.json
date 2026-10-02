@@ -1,0 +1,63 @@
+{
+  "utc": "2026-10-02T09:26:25.872908+00:00",
+  "layer": "smoke",
+  "status": "PASS",
+  "commands": [
+    {
+      "command": [
+        "scripts/check_policy_core.py"
+      ],
+      "exit_code": 0,
+      "elapsed_seconds": 2.6540966000175104,
+      "log": "research\\public_replay_1.log"
+    },
+    {
+      "command": [
+        "scripts/check_label_adapter.py"
+      ],
+      "exit_code": 0,
+      "elapsed_seconds": 1.9541631000174675,
+      "log": "research\\public_replay_2.log"
+    },
+    {
+      "command": [
+        "scripts/revision_v6_boundary_development.py",
+        "--pilot"
+      ],
+      "exit_code": 0,
+      "elapsed_seconds": 6.855243099998916,
+      "log": "research\\public_replay_3.log"
+    },
+    {
+      "command": [
+        "scripts/revision_v7_effective_intervention.py",
+        "--pilot"
+      ],
+      "exit_code": 0,
+      "elapsed_seconds": 6.968827400007285,
+      "log": "research\\public_replay_4.log"
+    },
+    {
+      "command": [
+        "scripts/revision_v8_sensitivity_analysis.py",
+        "--pilot"
+      ],
+      "exit_code": 0,
+      "elapsed_seconds": 5.815874899999471,
+      "log": "research\\public_replay_5.log"
+    },
+    {
+      "command": [
+        "scripts/revision_v8_sensitivity_analysis.py",
+        "--window-summary-replay"
+      ],
+      "exit_code": 0,
+      "elapsed_seconds": 7.724510000000009,
+      "log": "research\\public_replay_6.log"
+    }
+  ],
+  "empirical_refit": false,
+  "new_download": false,
+  "synthetic_empirical_evidence": false,
+  "interpretation": "Six actual safe-replay smoke commands; no fresh complete empirical model refit or full raw-source reconstruction."
+}

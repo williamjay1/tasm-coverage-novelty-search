@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "seconds": 21.68154879999929,
+  "seeds": 100,
+  "strata_checks": 286600,
+  "n_situations_each_seed": "{('battery', 'boosting'): 356, ('battery', 'ridge'): 356, ('electronics', 'boosting'): 1077, ('electronics', 'ridge'): 1077}",
+  "main_estimate": "Exact finite-pool conditional expectation, not seed-average estimate",
+  "matched_dimensions": "30 total,9 core,exact actual unfamiliar count of N9m3,identical21 noncore IDs",
+  "uniform_scheme": "Without replacement within unfamiliar core and familiar core strata independently",
+  "meaning": "Tests ranking-specific selection against arbitrary selection at the identical observed composition. It does not estimate a causal organizational effect or provide a novelty placebo.",
+  "seed_uncertainty": "Between-seed variation is Monte Carlo selection variation; 100 seeds do not add independent organizations."
+}

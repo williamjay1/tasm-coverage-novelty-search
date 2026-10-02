@@ -1,0 +1,424 @@
+{
+  "schema_version": "1.0",
+  "title": "2022 newly granted patent monitoring: historical temporal extension plan fixed before new-source access",
+  "created_at_utc": "2026-10-02 03:49:56 UTC",
+  "local_timezone": "Asia/Shanghai",
+  "draft": false,
+  "frozen": true,
+  "final_freeze_owner": "/root",
+  "status": {
+    "analysis_run": false,
+    "new_source_access_or_download": false,
+    "externally_registered": false,
+    "formal_preregistration_claim_permitted": false,
+    "untouched_holdout_claim_permitted": false,
+    "future_validation_completed": false,
+    "scope": "Fixed historical-extension design; new development comparisons executed only on existing 2013–2015 archive; 2022 evaluation not run",
+    "no_current_authorization_for": [
+      "login",
+      "account creation",
+      "new dataset download",
+      "external preregistration"
+    ]
+  },
+  "interpretation": {
+    "main_contribution": "Goal, initial coded-domain coverage, available supply and novelty-floor binding determine the interpretation and comparison needed for finite patent screening",
+    "unit": "organization-task-year screening situation, with recurrent patent selections explicitly dependent",
+    "outcome_scope": "Archival future grant links and document exposure; not engineering performance, adoption or organizational attention measured in time",
+    "temporal_identity": "A historical extension plan specified in 2026 before new-source access; not a forecast protocol made in 2022",
+    "development_disclosure": "This theoretical revision follows already examined 2018–2021 and electronics outcomes; the newly executed 2013–2015 contrasts are exploratory development analyses, not independent confirmation."
+  },
+  "propositions": [
+    {
+      "id": "P1",
+      "origin_condition": "C0 <= 5; increasing coded-core allocation, feasible supply",
+      "mechanical": "C > C0 increases coded-core seats; combined gain equals coverage gain plus within-coverage residual by identity",
+      "empirical_prediction": "Coverage expansion increases mean future task-linked yield, and an equal-coverage score control reproduces more of the combined increment than changing unfamiliar selection at the same coverage",
+      "refutation": "Coverage expansion has zero/negative yield, or a competitive task baseline removes the undercoverage, or within-coverage novelty consistently supplies the larger gain"
+    },
+    {
+      "id": "P2",
+      "origin_condition": "C0 >= 13; exact allocation C=9",
+      "mechanical": "C < C0 removes C0-C coded-core seats. This concerns the domain allocation, not a low novelty floor",
+      "empirical_prediction": "Mean task-linked yield falls when exiting core yield exceeds entering noncore yield",
+      "refutation": "Entering noncore links compensate or exceed removed core links, or loss is confined to a weak ranker"
+    },
+    {
+      "id": "P3",
+      "origin_condition": "Same C and noncore IDs; m is absolute minimum novel-core count",
+      "mechanical": "If B(C) already has >=m novel-core candidates, selected IDs are identical under deterministic ordering; feasible binding requires a changed set and increased novel-core count",
+      "empirical_question": "In binding cells, how large and uncertain are changes in total task links and novel-core-linked composition?",
+      "no_automatic_inference": "More unrecorded combinations does not establish task-linked yield gain; a zero-containing interval does not establish zero effect"
+    }
+  ],
+  "cohort": {
+    "origin_year": 2022,
+    "event": "Year-end monitoring of utility patents newly granted in 2022",
+    "cohort_grant_date_start": "2022-01-01",
+    "cohort_grant_date_end": "2022-12-31",
+    "history_years": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "history_min_grants_proposal": 15,
+    "history_min_task_core_grants_proposal": 3,
+    "withdrawn_records": "Exclude using pinned source status; do not silently replace with modern legal status",
+    "missing_owner_or_classification": "Report admission exclusions and missingness before outcome evaluation",
+    "candidate_owner_rule": "External to focal organization under pinned at-issue ownership resolution",
+    "eligible_pool_rule": "Same pool shared by all compared policies and rankers; target profiles and admission are fixed using origin-known information",
+    "task_temperature_discovery_claim": false,
+    "new_grant_monitoring_not_early_discovery": true
+  },
+  "historical_input_bridge": {
+    "identifiers": [
+      "grant_id",
+      "publication_kind",
+      "application_id",
+      "grant_date"
+    ],
+    "pinned_origin_fields": [
+      "at_issue_owner_ids",
+      "at_issue_CPC",
+      "title_at_grant",
+      "abstract_at_grant",
+      "source_release"
+    ],
+    "pinned_manifests": [
+      "cohort",
+      "organization histories",
+      "candidate admission",
+      "classification hierarchy",
+      "owner normalization",
+      "application bridge",
+      "old full-candidate exclusion union",
+      "scores"
+    ],
+    "hashes_before_outcomes": true,
+    "future_release_join_keys": [
+      "fixed cited grant_id and kind",
+      "future citing grant_id and kind"
+    ],
+    "permitted_future_append": "2023-2025 citing grants and their at-issue attributes used exclusively for outcome measurement",
+    "prohibited_backflow": [
+      "revised origin owners",
+      "revised origin CPC",
+      "future assignment changes",
+      "future family joins",
+      "future citation counts",
+      "later disambiguation used to rewrite histories or novelty"
+    ],
+    "conflicts": "Quarantine and report unresolved joins using an outcome-independent rule; no result-based version selection",
+    "at_issue_recoverability": "Unverified; inability to reconstruct must be reported and prevents claiming historical-input leakage solved",
+    "seen_outcome_audit": {
+      "required_statuses": [
+        "not accessed",
+        "accessed",
+        "generated",
+        "reviewed",
+        "unknown"
+      ],
+      "fields": [
+        "file/release",
+        "candidate cohort",
+        "citing year",
+        "outcome field",
+        "agent/run exposure",
+        "date",
+        "status",
+        "evidence"
+      ],
+      "old_cache_citing_years_already_accessed": [
+        2023,
+        2024
+      ],
+      "old_cache_status": "Root confirms 2023-2024 cached sources already seen; specific cohort label generation and result review require finer audit; 2022 is not untouched",
+      "citing_2025_access_in_current_round": false,
+      "outcome_independence_does_not_follow_from_protocol_lock": true
+    }
+  },
+  "training": {
+    "train_new_models_in_current_round": false,
+    "latest_training_grant_year_proposal": 2018,
+    "latest_training_citing_grant_date": "2021-12-31",
+    "chronological_fitting_and_preprocessing": true,
+    "future_outcomes_in_feature_fitting": false,
+    "independent_nonthermal_task_training_required": true,
+    "prohibited_shortcut": "Do not apply thermal-only fitted scores to water and attribute distribution mismatch to a decision boundary",
+    "same_standard_features_and_resource_conditions": "Reuse feature definitions and fitting standards while fitting the water models on its independent historical nonthermal samples",
+    "domain_adaptation": "Vocabulary, domain parameters and tuning may use <=2015 development records or other pre-2022 training records with outcomes fully matured by 2021; exact splits/choices must be separately listed before new-source access",
+    "task_labels_do_not_steer_2022_adaptation": true,
+    "future_parameters_lock": "All domain retrieval, vocabulary, tuning and task-specific model choices must be recorded before new outcome joins. No use of 2022–2025 outcome labels to choose them."
+  },
+  "rankings": {
+    "primary_and_alternative": [
+      "Boost external general-reach forecast",
+      "Ridge external general-organization-count forecast"
+    ],
+    "additional_task_baseline": "BM25 using grant-time titles/abstracts and a pre-fixed membrane-water function text; origin-only IDF/vocabulary",
+    "all_retained_and_reported": true,
+    "weak_comparator_selection_prohibited": true,
+    "additional_baseline_status": "Proposed; not fitted or executed in this round",
+    "future_model_or_future_text_embeddings_as_historical_input": false,
+    "tie_break": "Use the preserved implementation ordering, with identical stable score/patent-ID ordering for every matched comparison; freeze exact ID dtype and sort before generating 2022 lists. Numeric ID ordering must not be silently substituted for string ordering.",
+    "additional_common_pool_controls": [
+      "Core-prioritizing frozen-score ordering, with explicit noncore backfill if core supply<30",
+      "Historical core-title cosine relevance",
+      "Existing same-pool MMR selector at weights .5/.7/.9; not a claimed replication of Kim-Croft or recent semantic opportunity systems"
+    ]
+  },
+  "policies": {
+    "K": 30,
+    "exact_core_allocations": [
+      0,
+      3,
+      6,
+      9,
+      12,
+      15,
+      30
+    ],
+    "absolute_novel_core_minima": [
+      0,
+      3,
+      9
+    ],
+    "invalid_pairs": "m > C excluded structurally and labelled invalid, not infeasible supply",
+    "U": "Unconstrained score Top30",
+    "B_C": "Exact C core and K-C noncore, score-only selection",
+    "N_C_m": "Exact C core and unchanged noncore identifiers, at least m novel-core candidates, otherwise same score ordering",
+    "original_whole_list_reference": "Retain legacy supply-capped q=.30 and its exact realized-core match; separately retain strict nine-unfamiliar-core reference, declaring supply shortages infeasible.",
+    "original_reference_is_not_C9_m3": true,
+    "novelty_definition": "Unordered CPC-subclass combination absent from focal organization's preceding task-core history; root confirms exact field construction against existing core_newpair implementation",
+    "classification_is_not_semantic_task_relevance": true,
+    "fixed_absolute_m_when_varying_C": true,
+    "cap_requested_allocations_to_supply": false,
+    "use_future_labels_to_select": false,
+    "feasibility": [
+      "pool_n>=30",
+      "core_n>=C",
+      "noncore_n>=30-C",
+      "novel_core_n>=m"
+    ],
+    "binding_exact": "novel_core_count(B(C)) < m",
+    "binding_original_reference": "Compare baseline unfamiliar core count with the realized legacy minimum; for strict q9 compare it with nine. Do not conflate these references.",
+    "matched_comparisons": "Same ranker, K, admitted pool, C, noncore IDs, metadata and chronological processing",
+    "common_feasible_denominators": true,
+    "infeasible_and_empty_cells_retained": true,
+    "legacy_supply_capped_reference": "Authentic existing q=.30 reserves min(9,available unfamiliar core documents), then fills by score; requested minimum, realized target and shortfalls reported. This reference is separate from uncapped C,m grid and strict q9 reference."
+  },
+  "origin_known_regimes": {
+    "C0_low": {
+      "minimum": 0,
+      "maximum": 5,
+      "interpretation": "<20% core exposure in Top30"
+    },
+    "C0_mid": {
+      "minimum": 6,
+      "maximum": 12,
+      "interpretation": "20%-40% inclusive"
+    },
+    "C0_high": {
+      "minimum": 13,
+      "maximum": 30,
+      "interpretation": ">40%"
+    },
+    "display_continuous_C_minus_C0": true,
+    "supply_fields": [
+      "pool_n",
+      "core_n",
+      "noncore_n",
+      "novel_core_n",
+      "requested C",
+      "requested m",
+      "feasibility",
+      "supply slack"
+    ],
+    "cutoffs_selected_using_future_results_or_quantiles": false,
+    "thresholds_source": "Development agent origin-known representation proposals, 2026-10-02; root final merge pending"
+  },
+  "outcomes": {
+    "citing_grant_years": [
+      2023,
+      2024,
+      2025
+    ],
+    "primary": "Selected document receives >=1 external citation from a task-core grant in the three later grant years",
+    "primary_unit": "binary per selected patent, summed as recurrent selection events",
+    "external_rule": "Exclude any sharing pinned owner or application identifier with selected grant",
+    "task_core_citing_classification": "CPC at the citing grant's own issue; no post-2025 reclassification",
+    "separate_objectives": [
+      "total task-linked documents",
+      "general external reach",
+      "novel-core exposure",
+      "novel-core-linked document composition"
+    ],
+    "sensitivities": [
+      "applicant-only identifiable links; unknown origin kept unknown",
+      "unique selected patents",
+      "gross entering and removed task-link contributions",
+      "citing-grant concentration / high-influence-citer removal"
+    ],
+    "engineering_performance_or_adoption": false,
+    "citation_action_date_or_invention_date_from_grant_year": false,
+    "full_2025_coverage_feasible": "Unknown; official release catalogue must establish completeness",
+    "missing_2025_handling": "Report unavailable three-year evaluation; a separately locked two-year extension cannot be relabelled as this primary outcome"
+  },
+  "frontier": {
+    "weighted_composite": false,
+    "display": "Unweighted Pareto frontier and paired outcome vectors; trade-offs and uncertainty retained",
+    "per_goal_best_rule": "Only if justified by specified goal and fair baseline; no universal optimal quota claim",
+    "dominance_uncertainty": "Distinguish observed mean dominance from stable dominance under uncertainty",
+    "denominators": "All history-eligible admission situations for feasibility; explicitly listed common-feasible situations for each effect contrast"
+  },
+  "uncertainty": {
+    "primary_proposal": "Paired organization cluster bootstrap with common draws across policies",
+    "repetitions": 2000,
+    "seed": 20261002,
+    "interval": "95% percentile, under stated organization sampling assumptions",
+    "dependency_sensitivity": "Existing crossed organization-by-candidate-grant multiplier approach, only after formula/unit verification",
+    "crossed_ranges_exact_confidence_guarantee": false,
+    "ordinary_independent_selection_event_bootstrap": false,
+    "shared_citing_patent_dependence_fully_resolved": false,
+    "report": [
+      "organization counts",
+      "unique selected candidate counts",
+      "candidate repetition concentration",
+      "paired win/tie/loss",
+      "gross contributions"
+    ]
+  },
+  "reproduced_share_reporting": {
+    "role": "Auxiliary display only; paired deltas and intervals/ranges lead",
+    "denominator": "Mean combined task-linked gain over U",
+    "minimum_positive_mean_gain_exclusive": 0.1,
+    "unit": "task-linked documents per shortlist",
+    "minimum_situations": 10,
+    "minimum_organizations": 5,
+    "conservative_display_additional_proposal": "Organization interval lower bound for combined gain must be >0",
+    "guard_failure": "Only report paired coverage and within-coverage deltas with intervals/ranges; suppress reproduced fraction",
+    "negative_or_near_zero_denominator_ratio": false,
+    "ratio_confidence_interval_claim": false,
+    "interpret_zero_containing_residual_as_zero_effect": false,
+    "equivalence_claim": "Not made; requires separately specified practical margin and valid interval method",
+    "root_confirmation_pending": true
+  },
+  "new_task": {
+    "preselected": true,
+    "name": "Membrane-based water treatment newly granted patent monitoring",
+    "mechanism_contrast": "Selective membrane transport and separation, medium compatibility, pressure/flux and fouling-control constraints, distinct from heat-transfer tasks",
+    "coded_core": [
+      "C02F1/44 and descendants in frozen 2022 hierarchy"
+    ],
+    "candidate_neighbourhood": [
+      "C02F",
+      "B01D61",
+      "B01D63",
+      "B01D65",
+      "pre-fixed membrane/water-treatment expressions"
+    ],
+    "origin_function_not_guaranteed_by_core": true,
+    "taxonomy_verification_sources": [
+      {
+        "url": "https://www.uspto.gov/web/patents/classification/cpc/html/cpc-C02F.html",
+        "locator": "C02F1/44 and listed subgroups",
+        "current_page_historical_scheme": false
+      },
+      {
+        "url": "https://www.uspto.gov/web/patents/classification/cpc/html/cpc-B01D.html",
+        "locator": "B01D61/00, B01D63/00, B01D65/00",
+        "current_page_historical_scheme": false
+      }
+    ],
+    "exclusions_before_outcomes": [
+      "Exclude at-issue H01M or H05K from candidate grants, task-core history and water-training grant records",
+      "Exclude union of every previously assessed battery/electronics full-candidate grant ID across years, organizations, rankings and policies, not merely selected IDs",
+      "Require complete prior candidate-union manifest before claiming nonoverlap",
+      "Pre-specify application/family-overlap sensitivity if a historically valid bridge is available; do not backfill future family changes"
+    ],
+    "future_citing_records": "Use water-core/external rules for outcomes and separately disclose overlap with old archive citing IDs; do not label shared citing records wholly independent",
+    "source_acquisition_plan": "First inspect official catalogue/schema, then targeted C02F1/44 neighbourhood filtering; no whole-database GB acquisition assumption",
+    "new_raw_destination_if_later_authorized": "F:/AcademicData/TASM_AlgorithmicSearch_20260929/raw/revision_v6/new_task",
+    "derived_compute_destination": "<project>",
+    "independent_nonthermal_training": true,
+    "feasibility": "Unknown: candidate supply, historical organizations, mature training labels, at-issue bridge and full 2025 outcome coverage",
+    "insufficient_supply_or_bridge": "Report this preselected task not evaluable; no outcome-driven or supply-driven switch to a favourable domain",
+    "new_domain_validation_completed": false
+  },
+  "functional_evidence_updates": [
+    {
+      "publication": "US10886512B2",
+      "original_grant_date": "2021-01-05",
+      "source": "https://patents.google.com/patent/US10886512B2/en",
+      "reading_mode": "Public original grant text online, 2026-10-02; no new raw download",
+      "actually_read": [
+        "Granted claims 1,12,13",
+        "Description Fig.1A operating paragraph",
+        "Description Fig.3C drawing explanation",
+        "Description Fig.5A sleeve paragraph"
+      ],
+      "precise_internal_locators": [
+        "Google lines 902-913,952-955",
+        "662-670",
+        "595",
+        "723-728"
+      ],
+      "route": "direct function",
+      "manuscript_repair": "Disclosed insulation and fluid isolation require receiving-interface verification; prior abstract-only unknown is not absence from the patent",
+      "complete_legal_or_engineering_validation": false,
+      "figure_pixels_visually_reviewed": false
+    },
+    {
+      "publication": "US10208280B2",
+      "original_grant_date": "2019-02-19",
+      "source": "https://patents.google.com/patent/US10208280B2/en",
+      "reading_mode": "Previously saved read-only original grant text reread, 2026-10-02",
+      "saved_source": "F:/AcademicData/TASM_AlgorithmicSearch_20260929/raw/revision_v3/public_task/patent_US10208280B2_jina_20261001.txt",
+      "actually_read": [
+        "Claim1",
+        "GENERAL DESCRIPTION Fig.4 fluid/insulator passages",
+        "GENERAL DESCRIPTION Fig.5a static mixer/mesh passages"
+      ],
+      "precise_internal_locators": [
+        "Saved lines 954-972",
+        "833-847",
+        "861-863"
+      ],
+      "route": "mechanism analogy",
+      "manuscript_repair": "Retain freezing-expansion mechanical constraints alongside contact/fluid/mesh principles; target-medium, geometry and electrical constraints require assessment",
+      "complete_legal_or_engineering_validation": false,
+      "figure_pixels_visually_reviewed": false
+    }
+  ],
+  "exclusions_and_failures_reporting": {
+    "keep_unsupported_and_unknown_cases": true,
+    "desk_labels_are_accuracy_estimates": false,
+    "expert_or_engineering_validation_claim": false,
+    "multi_AI_agreement_as_validation": false,
+    "source_shortage_is_scientific_failure": false,
+    "no_fake_completed_tests_or_effort_savings": true
+  },
+  "frozen_at_utc": "2026-10-02T04:00:05.613924+00:00",
+  "freeze_scope": "Analysis design only; future input manifests and feasibility checks are not complete or certified",
+  "execution_prerequisites": [
+    "Root merges development-agent thresholds, grid and display guards",
+    "Origin inputs and model-development rules have complete manifests and hashes",
+    "Seen-outcome audit distinguishes old 2023-2024 caches, generated labels and genuinely unaccessed 2025 sources",
+    "Official catalogue/schema/release coverage and at-issue reconstruction feasibility are checked",
+    "Old battery/electronics full-candidate union is complete and exclusions are audited",
+    "Independent nonthermal training and task-text baseline are feasible",
+    "Crossed organization-by-candidate-grant uncertainty formula and unit are verified"
+  ],
+  "execution_ready": false,
+  "data_manifest_frozen": false,
+  "freeze_evidence": {
+    "results/revision_v6/development_protocol.json": "0d5d5e9c914e140a398ecb145aae4aa496cb633b7f1596bd245cd291158a2111",
+    "results/revision_v6/development_protocol_semantic_amendment.json": "05200745426e1ff347a0d9efcbd622b22abdfda5b36bfb202ee3b34cedbd75ce",
+    "scripts/revision_v6_boundary_development.py": "a671709a60e7fa63116ea3e2df3d831b6070a7a7e913ec7b9d1609a541e8ccab",
+    "research/revision_v6_neighbours.md": "5a226f7a2be84338774a6a9ab5ddadad6f9e2af83d99d726c85a1ebdf6d3fd75"
+  },
+  "amendment_rule": "Any future design amendment requires a dated reason and exposure-status record; preserve this locked version and all outcomes. Unresolved access and feasibility do not authorize changing tasks on observed performance.",
+  "raw_storage": "F:\\AcademicData\\TASM_AlgorithmicSearch\\raw; no new data were downloaded in this round"
+}

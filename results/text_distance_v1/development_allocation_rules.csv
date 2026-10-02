@@ -1,0 +1,13 @@
+context,k,share,minimum_retention,development_total_hits,development_distant_hits,model
+concentrated,10,0.4,0.9,129.0,60.0,boosting
+concentrated,30,0.4,0.9,343.0,145.0,boosting
+concentrated,50,0.4,0.9,488.0,192.0,boosting
+diversified,10,0.4,0.9,137.0,52.0,boosting
+diversified,30,0.4,0.9,348.0,146.0,boosting
+diversified,50,0.4,0.9,524.0,214.0,boosting
+concentrated,10,0.0,1.0,132.0,43.0,boosting
+concentrated,30,0.4,1.0,343.0,145.0,boosting
+concentrated,50,0.2,1.0,496.0,164.0,boosting
+diversified,10,0.0,1.0,148.0,47.0,boosting
+diversified,30,0.4,1.0,348.0,146.0,boosting
+diversified,50,0.0,1.0,534.0,201.0,boosting

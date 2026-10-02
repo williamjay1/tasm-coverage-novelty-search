@@ -1,0 +1,7 @@
+model,policy,events,unique_patents
+boosting,fixed9,10680,1173
+boosting,fixed9_newpair30,10680,1173
+boosting,forecast_top30,10680,1217
+ridge,fixed9,10680,1143
+ridge,fixed9_newpair30,10680,1144
+ridge,forecast_top30,10680,1168

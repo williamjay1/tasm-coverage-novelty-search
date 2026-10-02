@@ -1,0 +1,38 @@
+{
+  "input": "<project>\\datasets\\canonical_v1\\study_patents.parquet",
+  "portfolios": "<project>\\datasets\\canonical_v1\\study_portfolios.parquet",
+  "output": "<project>\\results\\primary_v1",
+  "years": [
+    2013,
+    2014,
+    2015,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "development_end": 2015,
+  "capacities": [
+    10,
+    30,
+    50
+  ],
+  "min_history": 15,
+  "min_core_history": 3,
+  "min_classification_coverage": 0.8,
+  "max_organizations": 0,
+  "relevance_floor": 0.03,
+  "distance": "unseen_subclass",
+  "random_repeats": 5,
+  "max_features": 20000,
+  "high_threshold": 2,
+  "models": [
+    "ridge",
+    "boosting",
+    "popularity",
+    "similarity"
+  ],
+  "seed": 20260929,
+  "created_utc": "2026-09-29T10:08:09.202445+00:00",
+  "software_note": "Patent cohort labels become eligible only after the three-year window has matured. This run is not a human study."
+}

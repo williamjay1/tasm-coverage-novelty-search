@@ -1,0 +1,83 @@
+{
+  "chunk_limit_bytes": 40000000,
+  "files": [
+    {
+      "path": "datasets/canonical_v1/labels.duckdb",
+      "bytes": 61616128,
+      "sha256": "3628c1141bba0cadf16dc4f6a3471d16b44ef92b08805c5dbb80c45600a71dc5",
+      "parts": [
+        {
+          "path": "data_parts/datasets__canonical_v1__labels.duckdb.part000",
+          "bytes": 40000000,
+          "sha256": "1f785c134477ca4de54deba6eca13e62bcb2a3485d8c98b544ead2d0343f6171"
+        },
+        {
+          "path": "data_parts/datasets__canonical_v1__labels.duckdb.part001",
+          "bytes": 21616128,
+          "sha256": "1fb2a3a217b79b960b73aa6088767cfcd7f447672ef80ce346c82c8b3bae5cb2"
+        }
+      ]
+    },
+    {
+      "path": "datasets/patent_portfolios.parquet",
+      "bytes": 86211208,
+      "sha256": "08c2085cbb53f80dfa09ab989e06d20e99ebc58acd391a7b0b00ed8c82529392",
+      "parts": [
+        {
+          "path": "data_parts/datasets__patent_portfolios.parquet.part000",
+          "bytes": 40000000,
+          "sha256": "de530d5ed94e56b3b53ce530374df43191e93948586f3075cc7842cc909917d2"
+        },
+        {
+          "path": "data_parts/datasets__patent_portfolios.parquet.part001",
+          "bytes": 40000000,
+          "sha256": "c8156d15e007222d8cbec80a316f2a4f78d4cac4e5224cfc7471f7b66da851d6"
+        },
+        {
+          "path": "data_parts/datasets__patent_portfolios.parquet.part002",
+          "bytes": 6211208,
+          "sha256": "5b4905cecc596e69d4ff9367f05fe1a6135c1fa07d072a54e2ab61aac0118e92"
+        }
+      ]
+    },
+    {
+      "path": "datasets/revision_v2/task_disambig_portfolios.parquet",
+      "bytes": 94010009,
+      "sha256": "69c94e85f5f7f428bdbf4afc67752195fa24ec8e14edf4ff69e08d7fd8fade3e",
+      "parts": [
+        {
+          "path": "data_parts/datasets__revision_v2__task_disambig_portfolios.parquet.part000",
+          "bytes": 40000000,
+          "sha256": "505c2316a86d3b1fb8e77146108e83ce243d56222801c1fd1791eda12c9cfb8c"
+        },
+        {
+          "path": "data_parts/datasets__revision_v2__task_disambig_portfolios.parquet.part001",
+          "bytes": 40000000,
+          "sha256": "9c4aa7d1bd1b3a3c76cad30988b735ac29f1d0fb197eb34e15641ed5179d2834"
+        },
+        {
+          "path": "data_parts/datasets__revision_v2__task_disambig_portfolios.parquet.part002",
+          "bytes": 14010009,
+          "sha256": "0a4397ff44d95807839eb3337f0a0f546ccbc309a4b4c5080a19860189f2441c"
+        }
+      ]
+    },
+    {
+      "path": "datasets/revision_v3/validation_portfolios.parquet",
+      "bytes": 71682736,
+      "sha256": "7f3eb1654675017e4113a25fbf4e705880f52cd07f0eba5b4bdbb7ab9ff98500",
+      "parts": [
+        {
+          "path": "data_parts/datasets__revision_v3__validation_portfolios.parquet.part000",
+          "bytes": 40000000,
+          "sha256": "7f56c6fcefe9b64fce8685780bbc8a771e94f0cb88f06d9394d455daf15b1235"
+        },
+        {
+          "path": "data_parts/datasets__revision_v3__validation_portfolios.parquet.part001",
+          "bytes": 31682736,
+          "sha256": "32d5e9fa8e8ff2f37c78832bd2f9e0a38c9822f1921422e3c20d170618062040"
+        }
+      ]
+    }
+  ]
+}

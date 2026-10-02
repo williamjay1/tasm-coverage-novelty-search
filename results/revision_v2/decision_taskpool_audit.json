@@ -1,0 +1,75 @@
+{
+  "status": "PASS_WITH_RECORDED_FLOAT32_FLOOR_EDGE",
+  "whole_pool_id_rows_exactly_common": 928667,
+  "whole_pool_float32_floor_differences": [
+    {
+      "organization_id": "FORDGLOBALTECHNOLOGIESLLC",
+      "year": 2020,
+      "patent_id": "10665839",
+      "side": "v1_only",
+      "observed_included_similarity": 0.03000003471970558,
+      "difference_type": "float32 mean row-order floor edge; selected-list recovery separately exact"
+    }
+  ],
+  "whole_subclass_selected_id_rows_recovered": 160200,
+  "whole_subclass_policy_rows_recovered": 5340,
+  "independently_rebuilt_core_centroids": [
+    {
+      "year": 2018,
+      "organization_id": "A123SYSTEMSLLC",
+      "core_history_n": 5,
+      "last_core_history_year": 2017,
+      "last_training_year": 2015,
+      "pool_n": 788,
+      "max_absolute_similarity_error": 0.0
+    },
+    {
+      "year": 2018,
+      "organization_id": "ALLISONTRANSMISSIONINC",
+      "core_history_n": 6,
+      "last_core_history_year": 2016,
+      "last_training_year": 2015,
+      "pool_n": 1165,
+      "max_absolute_similarity_error": 0.0
+    },
+    {
+      "year": 2018,
+      "organization_id": "ATIEVAINC",
+      "core_history_n": 18,
+      "last_core_history_year": 2017,
+      "last_training_year": 2015,
+      "pool_n": 1275,
+      "max_absolute_similarity_error": 0.0
+    },
+    {
+      "year": 2021,
+      "organization_id": "A123SYSTEMSLLC",
+      "core_history_n": 5,
+      "last_core_history_year": 2019,
+      "last_training_year": 2018,
+      "pool_n": 995,
+      "max_absolute_similarity_error": 0.0
+    },
+    {
+      "year": 2021,
+      "organization_id": "ALLISONTRANSMISSIONINC",
+      "core_history_n": 7,
+      "last_core_history_year": 2020,
+      "last_training_year": 2018,
+      "pool_n": 1058,
+      "max_absolute_similarity_error": 0.0
+    },
+    {
+      "year": 2021,
+      "organization_id": "AMAZONTECHNOLOGIESINC",
+      "core_history_n": 5,
+      "last_core_history_year": 2020,
+      "last_training_year": 2018,
+      "pool_n": 1267,
+      "max_absolute_similarity_error": 0.0
+    }
+  ],
+  "scope": "Raw-identity new pools only; post-critique fixed scores and lists; no outcome selection",
+  "focal_scope": "Raw grant-owner archive links, not observed screening or adoption; postorigin filing is separately labelled.",
+  "five_year_scope": "Only 2018 and 2019 grants; 158 historical situations per relevance pool."
+}

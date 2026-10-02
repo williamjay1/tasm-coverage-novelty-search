@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+temp/
+source_raw/
+datasets/patent_work/
+# Restored large files are represented by checksum-verified chunks
+datasets/canonical_v1/labels.duckdb
+datasets/patent_portfolios.parquet
+datasets/revision_v2/task_disambig_portfolios.parquet
+datasets/revision_v3/validation_portfolios.parquet

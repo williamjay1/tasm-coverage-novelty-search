@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "n_situations": 356,
+  "n_unique_raw_organization_keys": 114,
+  "n_model_situations": 712,
+  "complete_history_membership_count_recovery": "Exact all356 history_n and core_history_n; classification coverage within1e-12",
+  "breadth_source": "Complete prior-five-year canonical portfolio, distinct union of archived four-character CPC/IPC codes",
+  "existing_v3_task_contrast_recovery": "Exact all four contrasts at each712 model-situations",
+  "naive_capacity_controlled_identity": "Exact per situation",
+  "quota_binding_equals_changed_original_list": "Exact",
+  "group_weighted_means": "All4 groupings reproduce all full-sample contrast means within1e-12",
+  "strict_reversal_recovery": {
+    "boosting": 50,
+    "ridge": 25
+  },
+  "organizations_crossing_groups": {
+    "core_history_fraction": 12,
+    "history_n": 12,
+    "pool_n": 50,
+    "history_subclass_breadth": 15
+  },
+  "preserved": "No writes to v1-v3 or raw files; no model or grid rerun"
+}

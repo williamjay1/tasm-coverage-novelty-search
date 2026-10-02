@@ -1,0 +1,29 @@
+{
+  "title": "Replication materials for Evaluating coverage and novelty in technology intelligence",
+  "upload_type": "software",
+  "publication_date": "2026-10-02",
+  "creators": [
+    {
+      "name": "Zhang, Junjie",
+      "orcid": "0009-0004-8821-4018",
+      "affiliation": "Shanghai Academy of Global Governance & Area Studies; School of Economics and Finance, Shanghai International Studies University, Shanghai 201620, China"
+    }
+  ],
+  "description": "Research software and patent-derived archival replication data for the TASM manuscript Evaluating coverage and novelty in technology intelligence. Software is MIT; derived archival data, original figures and documentation are CC BY 4.0. The input source is the United States Patent and Trademark Office release through 31 December 2024, source DOI 10.5281/zenodo.15058362. The source DOI is not a DOI for this research release. Frozen-input replay, forecasting reconstruction and full raw-source reconstruction are distinct layers. The 2022 extension remains unexecuted. No funding, competing interests, human participants or ethics-approval claim is made. The author will personally activate Zenodo-GitHub archiving and publish a GitHub Release.",
+  "license": "other-open",
+  "notes": "Mixed open licenses: MIT for original research software; CC BY 4.0 for patent-derived data, author-created figures and documentation. Review repository LICENSE, DATA_LICENSE.md and SOURCE_ATTRIBUTION.md. No study DOI is preassigned.",
+  "keywords": [
+    "technology intelligence",
+    "organizational search",
+    "patent analytics",
+    "machine learning",
+    "task allocation"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.15058362",
+      "relation": "isDerivedFrom",
+      "scheme": "doi"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "seconds": 7.063271899998654,
+  "draws_each": 4000,
+  "family_size": 4,
+  "global_unique_org_keys": 432,
+  "global_unique_patent_keys": 28142,
+  "shared_weights_across_all_four": true,
+  "critical_values": {
+    "paired_organization": 2.5449454006158594,
+    "crossed_org_patent_sensitivity": 3.0465674045905
+  },
+  "construction": "Bootstrap distribution centered at each observed point; empirical SD standardizes departures; maximum absolute departure over the fixed four-contrast family gives one common 95% critical value. This is approximate fixed-list simultaneous inference, not an exact finite-sample coverage claim.",
+  "crossed_caveat": "Crossed ranges retain complete-pool exposure denominators and are dependence sensitivity; they do not establish nominal frequentist coverage.",
+  "p_values": "None computed or added. No multiplicity testing of identities, d distributions, descriptive parameter tables or handoff cases."
+}

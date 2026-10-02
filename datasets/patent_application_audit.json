@@ -1,0 +1,151 @@
+{
+  "audited_utc": "2026-09-29T09:54:02.249410+00:00",
+  "applications": [
+    {
+      "n_rows": 9073162,
+      "patents": 9073162,
+      "applications": 9052499,
+      "missing_application": 0,
+      "prefix_series_mismatch": 256501,
+      "non_eight_digit": 19649
+    }
+  ],
+  "application_shapes": [
+    {
+      "length": 8,
+      "prefix": "16",
+      "series_code": "16",
+      "n": 768051
+    },
+    {
+      "length": 8,
+      "prefix": "15",
+      "series_code": "15",
+      "n": 751043
+    },
+    {
+      "length": 8,
+      "prefix": "09",
+      "series_code": "09",
+      "n": 715637
+    },
+    {
+      "length": 8,
+      "prefix": "14",
+      "series_code": "14",
+      "n": 703057
+    },
+    {
+      "length": 8,
+      "prefix": "08",
+      "series_code": "08",
+      "n": 697485
+    },
+    {
+      "length": 8,
+      "prefix": "13",
+      "series_code": "13",
+      "n": 671952
+    },
+    {
+      "length": 8,
+      "prefix": "10",
+      "series_code": "10",
+      "n": 650100
+    },
+    {
+      "length": 8,
+      "prefix": "12",
+      "series_code": "12",
+      "n": 644823
+    },
+    {
+      "length": 8,
+      "prefix": "07",
+      "series_code": "07",
+      "n": 622623
+    },
+    {
+      "length": 8,
+      "prefix": "11",
+      "series_code": "11",
+      "n": 596397
+    },
+    {
+      "length": 8,
+      "prefix": "06",
+      "series_code": "06",
+      "n": 584734
+    },
+    {
+      "length": 8,
+      "prefix": "17",
+      "series_code": "17",
+      "n": 539469
+    },
+    {
+      "length": 8,
+      "prefix": "29",
+      "series_code": "29",
+      "n": 448626
+    },
+    {
+      "length": 8,
+      "prefix": "05",
+      "series_code": "05",
+      "n": 332438
+    },
+    {
+      "length": 8,
+      "prefix": "29",
+      "series_code": "D",
+      "n": 224126
+    },
+    {
+      "length": 8,
+      "prefix": "18",
+      "series_code": "18",
+      "n": 87149
+    },
+    {
+      "length": 7,
+      "prefix": "D0",
+      "series_code": "D",
+      "n": 19405
+    },
+    {
+      "length": 8,
+      "prefix": "35",
+      "series_code": "D",
+      "n": 12726
+    },
+    {
+      "length": 8,
+      "prefix": "04",
+      "series_code": "04",
+      "n": 1290
+    },
+    {
+      "length": 8,
+      "prefix": "35",
+      "series_code": "35",
+      "n": 1265
+    }
+  ],
+  "duplicate_applications": [
+    {
+      "repeated_ids": 19519,
+      "grants_in_repeated_ids": 40182
+    }
+  ],
+  "study_applications": [
+    {
+      "n_rows": 5296642,
+      "applications": 5296635,
+      "non_eight_digit": 0,
+      "prefix_series_mismatch": 0
+    }
+  ],
+  "study_app_cross_series": [],
+  "study_app_nonstandard_examples": []
+}

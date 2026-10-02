@@ -1,0 +1,12 @@
+{
+  "evaluation_started_utc": "2026-09-30T17:15:21.855730+00:00",
+  "protocol_sha256": "d3b303f2515d5fa2705274ccef6a4c86480524888932cad18546afc377e905e0",
+  "fixed_selections_sha256": "439bd09a01d8edbb43eb004a4e2784972ad133ed26613a2cb5bb994564e16a68",
+  "task_code_raw_row_mismatches": 0,
+  "general_applicant_v1_exact_count_mismatches": 0,
+  "three_year_edges": [
+    8647,
+    1233
+  ],
+  "no_battery_coded_candidates": 0
+}

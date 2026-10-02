@@ -1,0 +1,65 @@
+{
+  "locked_utc": "2026-09-30T17:04:41.382933+00:00",
+  "stage": "before electronics outcome evaluation",
+  "protocol": {
+    "task": "H05K7/20 electronics thermal conditioning, CPC or IPC and descendants",
+    "official_definition": "https://www.uspto.gov/web/patents/classification/cpc/html/defH05K.html",
+    "interpretation": "Cooling, ventilating or heating arrangements for electric apparatus; coded association, not applicability",
+    "origins": [
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "history_years": 5,
+    "identity": "As-published upper-alphanumeric owner names; full owner sets",
+    "eligibility": {
+      "total_grants_min": 15,
+      "pure_electronics_core_grants_min": 3,
+      "classified_fraction_min": 0.8
+    },
+    "candidate_source": "Frozen current-grant v1 broad thermal candidate universe; remove any battery coded candidate and union of previously evaluated battery shortlist grant IDs",
+    "prior_list_exclusion": "All selected_primary_*.parquet in primary_v1 and text_distance_v1; decision_selected*.parquet, taskpool_raw_selected*.parquet, taskpool_disambig_selected*.parquet and fine_core_slot_selected.parquet in revision_v2. Union across years, policies, boundaries and models before outcomes",
+    "core_definition": "CPC/IPC H05K7/20-prefix and no CPC/IPC battery H01M10/(6[0-9]|50)-prefix",
+    "task_profile": "Focal prior-five-year pure electronics core title centroid",
+    "vocabulary": "Original mature-origin TFIDF title fit, 2010 to t-3; max20000 min_df2 max_df.98 unigram/bigram English-stopwords sublinear float32",
+    "admission": {
+      "title_cosine_min": 0.03,
+      "external_owner": true,
+      "classified": true,
+      "pool_min": 50
+    },
+    "models": [
+      "boosting",
+      "ridge"
+    ],
+    "K": 30,
+    "core_C": 9,
+    "policies": [
+      "forecast_top30",
+      "fixed_core9",
+      "fixed_core9_pair3"
+    ],
+    "novelty": "At least one unordered four-character CPC/IPC subclass pair absent from focal pure-core five-year history",
+    "pair_quota": {
+      "core_share": 0.3,
+      "minimum_newpair_core": 3
+    },
+    "feasibility": "Require >=9 core and >=21 noncore pool patents; pair policy also >=3 newpair core. Report failures, do not change capacity/definition",
+    "selection": "Original score descending and stable patent-ID ties; pair3 reserves 3 novel core then fills remaining6 core by score; same21 noncore across fixed policies",
+    "primary_outcome": "At least one external pure-electronics-core citing grant, t+1 through t+3",
+    "secondary_outcomes": [
+      "General external >=2 raw organizations",
+      "Applicant-category external >=2 raw organizations"
+    ],
+    "filters": "Known citing owner, full citing/cited owner-set nonoverlap, different known application; utility nonwithdrawn grant; no battery-coded electronics citing core",
+    "inference": "Paired organization bootstrap2000, seed20261001, retain all sampled organization origins, denominator sampled situation count",
+    "planned_contrasts": [
+      "fixed_core9 minus forecast_top30",
+      "fixed_core9_pair3 minus fixed_core9",
+      "fixed_core9_pair3 minus forecast_top30"
+    ],
+    "transport_boundary": "Task not used for original policy design; shared 2018-21 period and broad thermal corpus, predictors may train on electronics. Not prospective or unseen prediction domain",
+    "no_outcome_driven_changes": true
+  }
+}

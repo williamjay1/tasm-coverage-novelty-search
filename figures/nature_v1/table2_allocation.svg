@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="518.740157pt" height="231.1pt" viewBox="0 0 518.740157 231.1" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-02T16:40:06.795244</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 231.1 
+L 518.740157 231.1 
+L 518.740157 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 0 27.8 
+L 518.740157 27.8 
+" clip-path="url(#p8d547e8df5)" style="fill: none; stroke: #222222; stroke-width: 0.8"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 0 79.1 
+L 518.740157 79.1 
+" clip-path="url(#p8d547e8df5)" style="fill: none; stroke: #222222; stroke-width: 0.5"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 0 129.3 
+L 518.740157 129.3 
+" clip-path="url(#p8d547e8df5)" style="fill: none; stroke: #222222; stroke-width: 0.8"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial'; text-anchor: start; fill: #202124" x="5" y="14.062988" transform="rotate(-0 5 14.062988)">Table 2. Allocation and within-allocation outcomes of the novelty reservation</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'Arial'; text-anchor: start; fill: #202124" x="5" y="42.347256" transform="rotate(-0 5 42.347256)">Ranking</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(64.527559 43.291318)">Allocation</text>
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(64.527559 55.585361)">task-link</text>
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(64.527559 66.935342)">gain</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(138.228346 43.291318)">Within-allocation</text>
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(138.228346 54.641299)">task-link gain</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(234.606299 43.291318)">Within-allocation</text>
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(234.606299 55.643252)">unfamiliar</text>
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(234.606299 66.116709)">exposure</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(333.818898 43.291318)">Within-allocation</text>
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(333.818898 54.641299)">general-reach</text>
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(333.818898 66.935342)">gain</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(430.19685 42.4096)">Reproduced</text>
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(430.19685 55.585361)">task-link share</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 9.5px; font-family: 'Arial'; text-anchor: start; fill: #202124" x="5" y="93.647256" transform="rotate(-0 5 93.647256)">Primary</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 9.5px; font-family: 'Arial'; text-anchor: end; fill: #202124" x="128.228346" y="94.600967" transform="rotate(-0 128.228346 94.600967)">+1.396</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 9.5px; font-family: 'Arial'; text-anchor: end; fill: #202124" x="224.606299" y="94.603193" transform="rotate(-0 224.606299 94.603193)">+0.051</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 9.5px; font-family: 'Arial'; text-anchor: end; fill: #202124" x="323.818898" y="94.600967" transform="rotate(-0 323.818898 94.600967)">+3.697</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9.5px; font-family: 'Arial'; text-anchor: end; fill: #202124" x="420.19685" y="94.603193" transform="rotate(-0 420.19685 94.603193)">+0.295</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 9.5px; font-family: 'Arial'; text-anchor: end; fill: #202124" x="513.740157" y="94.579443" transform="rotate(-0 513.740157 94.579443)">96.5%</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 9.5px; font-family: 'Arial'; text-anchor: start; fill: #202124" x="5" y="119.691318" transform="rotate(-0 5 119.691318)">Alternative</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 9.5px; font-family: 'Arial'; text-anchor: end; fill: #202124" x="128.228346" y="119.703193" transform="rotate(-0 128.228346 119.703193)">+1.157</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 9.5px; font-family: 'Arial'; text-anchor: end; fill: #202124" x="224.606299" y="119.700967" transform="rotate(-0 224.606299 119.700967)">+0.230</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 9.5px; font-family: 'Arial'; text-anchor: end; fill: #202124" x="323.818898" y="119.700967" transform="rotate(-0 323.818898 119.700967)">+3.146</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 9.5px; font-family: 'Arial'; text-anchor: end; fill: #202124" x="420.19685" y="119.703193" transform="rotate(-0 420.19685 119.703193)">+0.152</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 9.5px; font-family: 'Arial'; text-anchor: end; fill: #202124" x="513.740157" y="119.679443" transform="rotate(-0 513.740157 119.679443)">83.4%</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 9px; font-family: 'Arial'; fill: #202124" transform="translate(5 147.40582)">Note. Means per 30-document list over the same 356 situations. Allocation contrasts compare the coverage match with</text>
+    <text style="font-size: 9px; font-family: 'Arial'; fill: #202124" transform="translate(5 159.084414)">baseline; within-allocation contrasts compare the novelty reservation with its coverage match. Unfamiliar exposure counts</text>
+    <text style="font-size: 9px; font-family: 'Arial'; fill: #202124" transform="translate(5 170.721523)">documents with an unseen core combination, not unique combinations. General reach counts documents cited by at least</text>
+    <text style="font-size: 9px; font-family: 'Arial'; fill: #202124" transform="translate(5 182.358633)">two external organizations. Task-linked event totals are 921/1,418/1,436 under baseline/match/novelty for the primary</text>
+    <text style="font-size: 9px; font-family: 'Arial'; fill: #202124" transform="translate(5 193.995742)">ranking and 1,050/1,462/1,544 for the alternative. Reproduced shares are 497/515 and 412/494. Each policy supplies</text>
+    <text style="font-size: 9px; font-family: 'Arial'; fill: #202124" transform="translate(5 205.644102)">10,680 document occurrences. Repeated document selections remain separate events. The matched lists preserve the</text>
+    <text style="font-size: 9px; font-family: 'Arial'; fill: #202124" transform="translate(5 217.269961)">novelty lists' core counts and all noncore identifiers.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8d547e8df5">
+   <rect x="0" y="0" width="518.740157" height="231.1"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,12 @@
+{
+  "year": 2021,
+  "n_train": 42567,
+  "latest_training_grant_year": 2018,
+  "latest_training_label_year": 2021,
+  "vocabulary_size": 20000,
+  "distance_vocabulary_size": 20000,
+  "distance_representation": "title_only_for_both_portfolios_and_candidates",
+  "n_visible": 464423,
+  "n_candidate": 6751,
+  "fit_seconds": 19.8
+}

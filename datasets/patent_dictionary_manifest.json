@@ -1,0 +1,20 @@
+{
+  "record": "15058362",
+  "retrieved": "2026-09-29T09:33:44.469129+00:00",
+  "record_title": "Final release of PatentsView metadata, pre-grant and granted (12/31/2024)",
+  "license": {
+    "id": "cc-by-4.0"
+  },
+  "coverage_end": "2024-12-31",
+  "files": [
+    {
+      "key": "_README.pdf",
+      "url": "https://zenodo.org/records/15058362/files/_README.pdf?download=1",
+      "path": "<source-raw>\\zenodo_15058362_20260929___README.pdf",
+      "size": 374677,
+      "md5": "077f02217b4927b8245bc9ad9e309292",
+      "status": "verified",
+      "download_seconds": 2.3
+    }
+  ]
+}

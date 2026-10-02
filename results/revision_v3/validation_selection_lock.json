@@ -1,0 +1,10 @@
+{
+  "selected_without_labels_utc": "2026-09-30T17:11:55.671400+00:00",
+  "protocol_sha256": "d3b303f2515d5fa2705274ccef6a4c86480524888932cad18546afc377e905e0",
+  "selections_sha256": "439bd09a01d8edbb43eb004a4e2784972ad133ed26613a2cb5bb994564e16a68",
+  "situations": 1082,
+  "feasible_situations": 1077,
+  "selected_rows": 193860,
+  "capacity_checks": 2154,
+  "label_columns_loaded_for_selection": []
+}

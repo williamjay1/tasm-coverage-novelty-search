@@ -1,0 +1,47 @@
+[
+  {
+    "path": "datasets\\canonical_v1\\study_patents.parquet",
+    "bytes": 27743841,
+    "sha256": "4645de0de6a501c0b1c165a4effab59164b7f9f0816fdd75405883eed1a9c946"
+  },
+  {
+    "path": "datasets\\canonical_v1\\study_portfolios.parquet",
+    "bytes": 41878981,
+    "sha256": "a509a19937de5558b6363f2b178bdeb96bfd34c416add5df389d40e6660dabe1"
+  },
+  {
+    "path": "datasets\\revision_v2\\task_patent_labels.parquet",
+    "bytes": 532706,
+    "sha256": "bdc1c4cf7b29e3baa57bb5a64aa7fbab376403f4cecdba83e8ada869548c5f61"
+  },
+  {
+    "path": "results\\revision_v2\\taskpool_raw_situations.parquet",
+    "bytes": 23170,
+    "sha256": "44576d9531f6db3d84c572742ca0f16fd63cd353bca5fa9587e7363263fc08ad"
+  },
+  {
+    "path": "results\\revision_v2\\taskpool_raw_detail.parquet",
+    "bytes": 268899,
+    "sha256": "79367d76a7c2fc2c59e5d6f6f6c6e59212d98907e46fd6f4a11f2339f769205a"
+  },
+  {
+    "path": "results\\primary_v1\\scores_2013.parquet",
+    "bytes": 2088552,
+    "sha256": "89013f2e2b5f7dd6480fe4c43c59d542412701dc7ce7c7d167b76b5a6160ed2b"
+  },
+  {
+    "path": "results\\primary_v1\\scores_2014.parquet",
+    "bytes": 2457015,
+    "sha256": "47d6ae87ba71135f585aab157f548e62bb89d51c64ce34a434db52b6d5911daf"
+  },
+  {
+    "path": "results\\primary_v1\\scores_2015.parquet",
+    "bytes": 3086951,
+    "sha256": "01dac538937c138a32dddc4643af484a6153c897b9dd00ebcad3fa90933f710d"
+  },
+  {
+    "path": "scripts\\policy_core.py",
+    "bytes": 7230,
+    "sha256": "fb5ee71c3c3dfec5d5a5940464b8c092b6768b1b5fe7142d5120746a20f3343c"
+  }
+]

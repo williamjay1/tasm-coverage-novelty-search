@@ -1,0 +1,6 @@
+organization_id,year,history_n,core_history_n,classification_coverage,pool_n,core_pool_n,newpair_core_pool_n,status
+INPHICORPORATION,2018,224,3,1.0,37,6,3,pool_below50
+INPHICORPORATION,2019,337,3,1.0,47,7,6,pool_below50
+DELPHITECHNOLOGIESINC,2020,398,8,1.0,32,2,2,pool_below50
+INPHICORPORATION,2020,386,3,1.0,48,7,6,pool_below50
+REDCOMLLC,2021,28,4,1.0,45,18,14,pool_below50

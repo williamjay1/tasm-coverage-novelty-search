@@ -1,0 +1,14 @@
+{
+  "created_utc": "2026-10-02T07:41:31.611143+00:00",
+  "stage": "Descriptive v8 sample profile after historical outcomes were examined",
+  "history": "Five complete grant calendar years t-5 through t-1; all technological domains",
+  "unit": "Unique task \u00d7 normalized as-published owner key \u00d7 origin year; no ranking or policy duplicates",
+  "admission": "Exact feasible v7 samples: battery356/114 and electronics1077/371",
+  "scope": "Observed four-character CPC/IPC subclass union; not search scope, organizational capabilities or cognitive familiarity",
+  "organization_summary": "One last eligible historical origin per owner in each task; year composition reported separately, not all owners at2021",
+  "owner_rule": "Uppercase ASCII alphanumeric literal organization name; full co-owner membership; no parent/alias merger",
+  "unknown_types": "No firm/university/research-institute or industry labels are inferred from names or broad legal assignee_type",
+  "no_new_data": true,
+  "no_outcomes_imported": true,
+  "D_free_bytes": 133144883200
+}

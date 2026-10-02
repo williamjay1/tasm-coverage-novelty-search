@@ -1,0 +1,8 @@
+{
+  "n_unique_sample_owner_keys": 432,
+  "n_keys_with_multiple_literal_names": 420,
+  "max_literal_names_per_key": 133,
+  "literal_names_total": 4204,
+  "verified_firm_university_institute_typology": false,
+  "reason": "Profiles do not retain a verified organizational form or industry variable. Source assignee_type is present in original schemas and the retrospective assignee export but is not a validated firm/university/institute classification; names are not used as type labels."
+}

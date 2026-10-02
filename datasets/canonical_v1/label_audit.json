@@ -1,0 +1,28 @@
+{
+  "created_utc": "2026-09-29T10:04:37.549472+00:00",
+  "release_end": "2024-12-31",
+  "n_raw_domain": 90882,
+  "n_no_organizational_owner": 4988,
+  "n_canonical_candidates": 85894,
+  "n_same_application_duplicates_removed": 0,
+  "label_window": "Jan 1 of grant year+1 through Dec 31 of grant year+3",
+  "early_window": "Cited grant date through Dec 31 of its grant year",
+  "external": "Known, nonoverlapping full owner sets; no same application; distinct documented organization names",
+  "unknown_owners": "Excluded from documented external-organization counts, coverage reported",
+  "family_limit": "Application-level de-duplication only; complete international and continuation family links unavailable",
+  "disambiguation": "Raw names for primary label, retrospective disambiguated IDs for outcome sensitivity only",
+  "source_files": {
+    "domain": {
+      "path": "<project>\\datasets\\patent_domain.parquet",
+      "size_bytes": 28907556
+    },
+    "citations": {
+      "path": "<project>\\datasets\\patent_citations.parquet",
+      "size_bytes": 6772564
+    },
+    "portfolios": {
+      "path": "<project>\\datasets\\patent_portfolios.parquet",
+      "size_bytes": 86211208
+    }
+  }
+}

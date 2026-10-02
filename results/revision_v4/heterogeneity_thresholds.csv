@@ -1,0 +1,4 @@
+feature,lower_cut,upper_cut,quantile_method,lower_closed,middle_lower_open,middle_upper_closed,high_lower_open
+history_n,228.0,1422.6666666666665,linear,True,True,True,True
+pool_n,1251.0,1895.6666666666665,linear,True,True,True,True
+history_subclass_breadth,84.0,185.66666666666666,linear,True,True,True,True

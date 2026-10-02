@@ -1,0 +1,102 @@
+{
+  "files": [
+    {
+      "path": "results\\primary_v1\\selected_primary_2013.parquet",
+      "sha256": "59b0e0d38b272f3e5f5e4b26f9e3e4734d9a4c50a33be9609436a99bcde9ad89"
+    },
+    {
+      "path": "results\\primary_v1\\selected_primary_2014.parquet",
+      "sha256": "c4f128df9fa39416569d4c668f0ad864902b8f3c17565490ff0bfb53a34c8ae3"
+    },
+    {
+      "path": "results\\primary_v1\\selected_primary_2015.parquet",
+      "sha256": "801fcd46245ef973b9539cec0f4b8319ec9204fa2e47ab5d8b927089eaa4fc62"
+    },
+    {
+      "path": "results\\primary_v1\\selected_primary_2018.parquet",
+      "sha256": "220cfedab9c14e33a25d271a3219adb58a815268b1f61483ced07564404687ea"
+    },
+    {
+      "path": "results\\primary_v1\\selected_primary_2019.parquet",
+      "sha256": "4ce9aa203118b0aec2a5e4c960e97e3a60e33fb5182e021241cbe1c7d63e6409"
+    },
+    {
+      "path": "results\\primary_v1\\selected_primary_2020.parquet",
+      "sha256": "81a42478b8ad90be15f4c697fabea97fcd0293c7533b1b4849e7759ac4273aad"
+    },
+    {
+      "path": "results\\primary_v1\\selected_primary_2021.parquet",
+      "sha256": "a9f2cb86a1e7bf5cc0a089f50ae5d5a424b503bdd99fbfb570783f9b84e0f88a"
+    },
+    {
+      "path": "results\\text_distance_v1\\selected_primary_2013.parquet",
+      "sha256": "39746120abc2d330be6770475998b924b5c408aa86a97e7ddbd6a1eef15495e2"
+    },
+    {
+      "path": "results\\text_distance_v1\\selected_primary_2014.parquet",
+      "sha256": "ce939fcd86da280fc87c977fb08abba8fa5cb21028483f76afcedec0b1b1716b"
+    },
+    {
+      "path": "results\\text_distance_v1\\selected_primary_2015.parquet",
+      "sha256": "3be103608a79db7920c1e59468d8676c128a91bc0b220d94095e5d61370a27ac"
+    },
+    {
+      "path": "results\\text_distance_v1\\selected_primary_2018.parquet",
+      "sha256": "c9920f3043f266e8eff8b5b1b0aa0a0ad2262e4e72fa6b3042af767c6354d0a9"
+    },
+    {
+      "path": "results\\text_distance_v1\\selected_primary_2019.parquet",
+      "sha256": "ab0b4507779b1788e6557a65607084e077fba03c30d621d4b50e6078b4326212"
+    },
+    {
+      "path": "results\\text_distance_v1\\selected_primary_2020.parquet",
+      "sha256": "67a29170726fa4f2b4bacdde593dbc0004d443fe7c7ab03df02b7f30f5c3920b"
+    },
+    {
+      "path": "results\\text_distance_v1\\selected_primary_2021.parquet",
+      "sha256": "f55b8596fd7183ae80264b45c8040d6fada59dd7378ec12082ac64d997d656d6"
+    },
+    {
+      "path": "results\\revision_v2\\decision_selected.parquet",
+      "sha256": "bbcb56be02a94e1219e75eb29fd61e2de49ef58dacfbd5c4c79d702e0e3ac217"
+    },
+    {
+      "path": "results\\revision_v2\\taskpool_raw_selected_2018.parquet",
+      "sha256": "1726eb97c596ca48180f6bd838865d226d1bfa093e362931f86acc683d5ca9c0"
+    },
+    {
+      "path": "results\\revision_v2\\taskpool_raw_selected_2019.parquet",
+      "sha256": "f6a5d2658849e8f26ad9f47428019f448dfa6e7739b949c406937be9dcd900c4"
+    },
+    {
+      "path": "results\\revision_v2\\taskpool_raw_selected_2020.parquet",
+      "sha256": "5015cf2f35ebfe867edca07b4d0261a1731e843943893096d1960a1cad1c102c"
+    },
+    {
+      "path": "results\\revision_v2\\taskpool_raw_selected_2021.parquet",
+      "sha256": "1a31e33e112a85737b75a2d4770f0c3526661dd3bdcc6cfab2309bd55138fcd0"
+    },
+    {
+      "path": "results\\revision_v2\\taskpool_disambig_selected_2018.parquet",
+      "sha256": "1b50fa21740be66caf7cf6c377c237c24e7b3e2e9b177b023e1918b9ea18299e"
+    },
+    {
+      "path": "results\\revision_v2\\taskpool_disambig_selected_2019.parquet",
+      "sha256": "78452a59ea95cde68a935fc9f8f2314c14e266d86a0b411b78136195c896f395"
+    },
+    {
+      "path": "results\\revision_v2\\taskpool_disambig_selected_2020.parquet",
+      "sha256": "42c5a5ea89af81525fe84f6f28c4d1a471b1f8346b57af21de98cae51c325e88"
+    },
+    {
+      "path": "results\\revision_v2\\taskpool_disambig_selected_2021.parquet",
+      "sha256": "c3c69c41f4382b7137d9e225d5c8b1afb109c9e5a1e56bf7cd0b8a7decb6b9cc"
+    },
+    {
+      "path": "results\\revision_v2\\fine_core_slot_selected.parquet",
+      "sha256": "c51a43645b1c10e3d8c9c3cf172742fe3d456c2e8768e75146294719ab91b7c9"
+    }
+  ],
+  "unique_prior_selected_ids": 12263,
+  "union_sha256": "710fba6abe5cd438e9d1a33ba29bb648652d392f3d7a41c0b5f6d9920ac02d21"
+}

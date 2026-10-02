@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-01",
+  "stage": "post-critique exploratory technical audit",
+  "input": "<project>\\results\\revision_v3\\technical_membership_input.csv",
+  "input_sha256": "b8d9c4245d7689389b45429ae3ffef3704374e52d4b6b46bc5406d48034792d8",
+  "sample_sha256": "d962e7812ae346a5dbfe62e7a7750daae87ccc6e364e9b26605eaf2760de70dd",
+  "sample_rule": "2018\u20132021 x retained/changed: first 2 unique numeric patent IDs; first organization_id lexicographically per ID and stratum",
+  "future_outcomes_used": false,
+  "text_read_after_identity_freeze": true,
+  "independent_human_validation": false,
+  "sample_n": 16,
+  "counts": {
+    "2018:changed": 2,
+    "2018:retained": 2,
+    "2019:changed": 2,
+    "2019:retained": 2,
+    "2020:changed": 2,
+    "2020:retained": 2,
+    "2021:changed": 2,
+    "2021:retained": 2
+  }
+}

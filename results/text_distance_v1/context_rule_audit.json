@@ -1,0 +1,12 @@
+{
+  "development_end": 2015,
+  "concentration_threshold": 0.05457418630348351,
+  "test_start_after_label_maturity": 2018,
+  "test_years": [
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "threshold_derived_from": "development decisions only"
+}

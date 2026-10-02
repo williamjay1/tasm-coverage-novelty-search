@@ -1,0 +1,10 @@
+{
+  "n_matched_situations_per_boundary": 356,
+  "n_core_count_mismatches": 0,
+  "n_noncore_set_mismatches": 0,
+  "ranking": "Original frozen boosting scores, ties by grant ID; no outcome or novelty label used",
+  "candidate_pool": "The exact existing origin-specific core-task pool",
+  "core_capacity": "Number of core grants in the actual novelty-quota list",
+  "noncore_selections": "Exactly fixed to the actual novelty-quota list",
+  "design": "Post-critique matched core-capacity diagnostic, not a standalone deployable policy or causal effect"
+}

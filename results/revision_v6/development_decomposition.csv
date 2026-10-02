@@ -1,0 +1,17 @@
+model,policy_variant,core_context,n,n_organizations,combined_delta,allocation_delta,within_delta,ratio,ratio_status,strict_naive_positive_controlled_negative,opposite_strict_reversal
+boosting,strict_target9_feasible_subset,all,55,26,1.1454545454545455,0.8181818181818182,0.32727272727272727,0.7142857142857143,descriptive_point_only,3,0
+boosting,strict_target9_feasible_subset,low_lt20pct,50,24,1.2,0.8,0.4,0.6666666666666667,descriptive_point_only,2,0
+boosting,strict_target9_feasible_subset,middle_20_to40pct_inclusive,4,3,0.75,1.25,-0.5,,suppressed_small_group_or_nonpositive_near_zero_denominator,1,0
+boosting,strict_target9_feasible_subset,high_gt40pct,1,1,0.0,0.0,0.0,,suppressed_small_group_or_nonpositive_near_zero_denominator,0,0
+boosting,legacy_supply_capped_all_admitted,all,60,26,1.2,0.8666666666666667,0.3333333333333333,0.7222222222222223,descriptive_point_only,3,0
+boosting,legacy_supply_capped_all_admitted,low_lt20pct,55,24,1.2545454545454546,0.8545454545454545,0.4,0.681159420289855,descriptive_point_only,2,0
+boosting,legacy_supply_capped_all_admitted,middle_20_to40pct_inclusive,4,3,0.75,1.25,-0.5,,suppressed_small_group_or_nonpositive_near_zero_denominator,1,0
+boosting,legacy_supply_capped_all_admitted,high_gt40pct,1,1,0.0,0.0,0.0,,suppressed_small_group_or_nonpositive_near_zero_denominator,0,0
+ridge,strict_target9_feasible_subset,all,55,26,1.0727272727272728,1.3272727272727274,-0.2545454545454545,1.2372881355932204,descriptive_point_only,11,0
+ridge,strict_target9_feasible_subset,low_lt20pct,47,24,1.2765957446808511,1.5319148936170213,-0.2553191489361702,1.2,descriptive_point_only,11,0
+ridge,strict_target9_feasible_subset,middle_20_to40pct_inclusive,5,4,-0.2,0.2,-0.4,,suppressed_small_group_or_nonpositive_near_zero_denominator,0,0
+ridge,strict_target9_feasible_subset,high_gt40pct,3,2,0.0,0.0,0.0,,suppressed_small_group_or_nonpositive_near_zero_denominator,0,0
+ridge,legacy_supply_capped_all_admitted,all,60,26,1.1333333333333333,1.3833333333333333,-0.25,1.2205882352941178,descriptive_point_only,13,0
+ridge,legacy_supply_capped_all_admitted,low_lt20pct,52,24,1.3269230769230769,1.5769230769230769,-0.25,1.1884057971014492,descriptive_point_only,13,0
+ridge,legacy_supply_capped_all_admitted,middle_20_to40pct_inclusive,5,4,-0.2,0.2,-0.4,,suppressed_small_group_or_nonpositive_near_zero_denominator,0,0
+ridge,legacy_supply_capped_all_admitted,high_gt40pct,3,2,0.0,0.0,0.0,,suppressed_small_group_or_nonpositive_near_zero_denominator,0,0

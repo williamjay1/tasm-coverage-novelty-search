@@ -1,0 +1,144 @@
+{
+  "status": "PASS",
+  "original_situations": 356,
+  "organizations": 114,
+  "n_policy_rows": 35580,
+  "n_selection_events": 1067400,
+  "n_pool_exposures": 585955,
+  "boost_published_list_recovery": "exact for all 2136 lists",
+  "boost_published_endpoint_recovery": "exact",
+  "matched_core_count_mismatches": 0,
+  "matched_noncore_id_mismatches": 0,
+  "selected_union_contribution_point_audit": "exact all six metrics, four model/boundary contrasts",
+  "core_candidates_strict_subclass_external": 0,
+  "explicit_floor_targets": [
+    {
+      "C": 0,
+      "r": 0.0,
+      "ceil_target": 0,
+      "prior_nearest_target": 0
+    },
+    {
+      "C": 0,
+      "r": 0.3,
+      "ceil_target": 0,
+      "prior_nearest_target": 0
+    },
+    {
+      "C": 0,
+      "r": 0.5,
+      "ceil_target": 0,
+      "prior_nearest_target": 0
+    },
+    {
+      "C": 3,
+      "r": 0.0,
+      "ceil_target": 0,
+      "prior_nearest_target": 0
+    },
+    {
+      "C": 3,
+      "r": 0.3,
+      "ceil_target": 1,
+      "prior_nearest_target": 1
+    },
+    {
+      "C": 3,
+      "r": 0.5,
+      "ceil_target": 2,
+      "prior_nearest_target": 2
+    },
+    {
+      "C": 6,
+      "r": 0.0,
+      "ceil_target": 0,
+      "prior_nearest_target": 0
+    },
+    {
+      "C": 6,
+      "r": 0.3,
+      "ceil_target": 2,
+      "prior_nearest_target": 2
+    },
+    {
+      "C": 6,
+      "r": 0.5,
+      "ceil_target": 3,
+      "prior_nearest_target": 3
+    },
+    {
+      "C": 9,
+      "r": 0.0,
+      "ceil_target": 0,
+      "prior_nearest_target": 0
+    },
+    {
+      "C": 9,
+      "r": 0.3,
+      "ceil_target": 3,
+      "prior_nearest_target": 3
+    },
+    {
+      "C": 9,
+      "r": 0.5,
+      "ceil_target": 5,
+      "prior_nearest_target": 5
+    },
+    {
+      "C": 12,
+      "r": 0.0,
+      "ceil_target": 0,
+      "prior_nearest_target": 0
+    },
+    {
+      "C": 12,
+      "r": 0.3,
+      "ceil_target": 4,
+      "prior_nearest_target": 4
+    },
+    {
+      "C": 12,
+      "r": 0.5,
+      "ceil_target": 6,
+      "prior_nearest_target": 6
+    },
+    {
+      "C": 15,
+      "r": 0.0,
+      "ceil_target": 0,
+      "prior_nearest_target": 0
+    },
+    {
+      "C": 15,
+      "r": 0.3,
+      "ceil_target": 5,
+      "prior_nearest_target": 5
+    },
+    {
+      "C": 15,
+      "r": 0.5,
+      "ceil_target": 8,
+      "prior_nearest_target": 8
+    },
+    {
+      "C": 30,
+      "r": 0.0,
+      "ceil_target": 0,
+      "prior_nearest_target": 0
+    },
+    {
+      "C": 30,
+      "r": 0.3,
+      "ceil_target": 9,
+      "prior_nearest_target": 9
+    },
+    {
+      "C": 30,
+      "r": 0.5,
+      "ceil_target": 15,
+      "prior_nearest_target": 15
+    }
+  ],
+  "original_case_membership": "preserved; never written by this script",
+  "scope": "Known-outcome battery exploratory diagnostic; frozen scores; no retraining or outcome-based selection"
+}

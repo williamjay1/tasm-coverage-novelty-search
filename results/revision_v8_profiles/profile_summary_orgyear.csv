@@ -1,0 +1,17 @@
+task,unit,n,unique_owner_keys,metric,minimum,q25,median,q75,maximum,mean,quantile_method
+battery,organization_year,356,114,history_n,15.0,142.0,478.5,2958.5,44285.0,2407.508426966292,linear
+battery,organization_year,356,114,core_history_n,3.0,4.0,6.5,14.0,210.0,16.93258426966292,linear
+battery,organization_year,356,114,core_history_fraction,9.032403748447555e-05,0.004744524257839226,0.017595789288254664,0.06557971014492753,0.4666666666666667,0.052178738318293144,linear
+battery,organization_year,356,114,history_subclass_breadth,6.0,60.0,121.5,220.25,421.0,152.4943820224719,linear
+battery,organization_year,356,114,classification_coverage,1.0,1.0,1.0,1.0,1.0,1.0,linear
+battery,organization_year,356,114,pool_n,318.0,1110.25,1554.5,2072.0,4061.0,1645.941011235955,linear
+battery,organization_year,356,114,core_pool_n,63.0,268.25,346.0,383.25,462.0,313.10955056179773,linear
+battery,organization_year,356,114,coowned_history_fraction,0.0,0.0,0.005717040539509952,0.05529993183367417,1.0,0.07710143167124031,linear
+electronics,organization_year,1077,371,history_n,15.0,123.0,481.0,1684.0,44285.0,1874.2906220984216,linear
+electronics,organization_year,1077,371,core_history_n,3.0,4.0,6.0,12.0,407.0,14.685236768802229,linear
+electronics,organization_year,1077,371,core_history_fraction,0.0004405528938818217,0.005528151046096275,0.015661252900232018,0.04864864864864865,1.0,0.05047907936106656,linear
+electronics,organization_year,1077,371,history_subclass_breadth,6.0,44.0,93.0,164.0,421.0,118.05199628597957,linear
+electronics,organization_year,1077,371,classification_coverage,1.0,1.0,1.0,1.0,1.0,1.0,linear
+electronics,organization_year,1077,371,pool_n,51.0,536.0,787.0,1135.0,2748.0,851.8356545961003,linear
+electronics,organization_year,1077,371,core_pool_n,10.0,136.0,204.0,277.0,570.0,210.68709377901578,linear
+electronics,organization_year,1077,371,coowned_history_fraction,0.0,0.0,0.009259259259259259,0.05925925925925926,1.0,0.10089248391766778,linear

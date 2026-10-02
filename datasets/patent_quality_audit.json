@@ -1,0 +1,730 @@
+{
+  "audited_utc": "2026-09-29T10:06:55.123686+00:00",
+  "application_audit_reused_utc": "2026-09-29T09:54:02.249410+00:00",
+  "applications": [
+    {
+      "n_rows": 9073162,
+      "patents": 9073162,
+      "applications": 9052499,
+      "missing_application": 0,
+      "prefix_series_mismatch": 256501,
+      "non_eight_digit": 19649
+    }
+  ],
+  "application_shapes": [
+    {
+      "length": 8,
+      "prefix": "16",
+      "series_code": "16",
+      "n": 768051
+    },
+    {
+      "length": 8,
+      "prefix": "15",
+      "series_code": "15",
+      "n": 751043
+    },
+    {
+      "length": 8,
+      "prefix": "09",
+      "series_code": "09",
+      "n": 715637
+    },
+    {
+      "length": 8,
+      "prefix": "14",
+      "series_code": "14",
+      "n": 703057
+    },
+    {
+      "length": 8,
+      "prefix": "08",
+      "series_code": "08",
+      "n": 697485
+    },
+    {
+      "length": 8,
+      "prefix": "13",
+      "series_code": "13",
+      "n": 671952
+    },
+    {
+      "length": 8,
+      "prefix": "10",
+      "series_code": "10",
+      "n": 650100
+    },
+    {
+      "length": 8,
+      "prefix": "12",
+      "series_code": "12",
+      "n": 644823
+    },
+    {
+      "length": 8,
+      "prefix": "07",
+      "series_code": "07",
+      "n": 622623
+    },
+    {
+      "length": 8,
+      "prefix": "11",
+      "series_code": "11",
+      "n": 596397
+    },
+    {
+      "length": 8,
+      "prefix": "06",
+      "series_code": "06",
+      "n": 584734
+    },
+    {
+      "length": 8,
+      "prefix": "17",
+      "series_code": "17",
+      "n": 539469
+    },
+    {
+      "length": 8,
+      "prefix": "29",
+      "series_code": "29",
+      "n": 448626
+    },
+    {
+      "length": 8,
+      "prefix": "05",
+      "series_code": "05",
+      "n": 332438
+    },
+    {
+      "length": 8,
+      "prefix": "29",
+      "series_code": "D",
+      "n": 224126
+    },
+    {
+      "length": 8,
+      "prefix": "18",
+      "series_code": "18",
+      "n": 87149
+    },
+    {
+      "length": 7,
+      "prefix": "D0",
+      "series_code": "D",
+      "n": 19405
+    },
+    {
+      "length": 8,
+      "prefix": "35",
+      "series_code": "D",
+      "n": 12726
+    },
+    {
+      "length": 8,
+      "prefix": "04",
+      "series_code": "04",
+      "n": 1290
+    },
+    {
+      "length": 8,
+      "prefix": "35",
+      "series_code": "35",
+      "n": 1265
+    }
+  ],
+  "duplicate_applications": [
+    {
+      "repeated_ids": 19519,
+      "grants_in_repeated_ids": 40182
+    }
+  ],
+  "study_applications": [
+    {
+      "n_rows": 5296642,
+      "applications": 5296635,
+      "non_eight_digit": 0,
+      "prefix_series_mismatch": 0
+    }
+  ],
+  "study_app_cross_series": [],
+  "study_app_nonstandard_examples": [],
+  "domain": [
+    {
+      "n_rows": 90882,
+      "distinct_patents": 90882,
+      "first_date": "2010-01-05",
+      "last_date": "2024-12-31",
+      "core_rows": 5119,
+      "broad_core_rows": 14859,
+      "unknown_org_rows": 4988,
+      "missing_abstract_rows": 0,
+      "missing_title_rows": 0,
+      "missing_application": 0
+    }
+  ],
+  "domain_years": [
+    {
+      "grant_year": 2010,
+      "n": 3496,
+      "core": 35,
+      "cpc_core": 0,
+      "ipc_core": 35,
+      "with_cpc": 0,
+      "with_ipc": 3496,
+      "unknown_org": 250,
+      "missing_abstract": 0
+    },
+    {
+      "grant_year": 2011,
+      "n": 3656,
+      "core": 53,
+      "cpc_core": 0,
+      "ipc_core": 53,
+      "with_cpc": 0,
+      "with_ipc": 3656,
+      "unknown_org": 243,
+      "missing_abstract": 0
+    },
+    {
+      "grant_year": 2012,
+      "n": 3785,
+      "core": 63,
+      "cpc_core": 0,
+      "ipc_core": 63,
+      "with_cpc": 0,
+      "with_ipc": 3785,
+      "unknown_org": 294,
+      "missing_abstract": 0
+    },
+    {
+      "grant_year": 2013,
+      "n": 4240,
+      "core": 106,
+      "cpc_core": 0,
+      "ipc_core": 106,
+      "with_cpc": 38,
+      "with_ipc": 4240,
+      "unknown_org": 291,
+      "missing_abstract": 0
+    },
+    {
+      "grant_year": 2014,
+      "n": 4807,
+      "core": 204,
+      "cpc_core": 111,
+      "ipc_core": 204,
+      "with_cpc": 1966,
+      "with_ipc": 4807,
+      "unknown_org": 320,
+      "missing_abstract": 0
+    },
+    {
+      "grant_year": 2015,
+      "n": 5566,
+      "core": 307,
+      "cpc_core": 290,
+      "ipc_core": 307,
+      "with_cpc": 5472,
+      "with_ipc": 5566,
+      "unknown_org": 331,
+      "missing_abstract": 0
+    },
+    {
+      "grant_year": 2016,
+      "n": 6120,
+      "core": 343,
+      "cpc_core": 331,
+      "ipc_core": 343,
+      "with_cpc": 6120,
+      "with_ipc": 6120,
+      "unknown_org": 340,
+      "missing_abstract": 0
+    },
+    {
+      "grant_year": 2017,
+      "n": 6769,
+      "core": 398,
+      "cpc_core": 388,
+      "ipc_core": 398,
+      "with_cpc": 6769,
+      "with_ipc": 6769,
+      "unknown_org": 377,
+      "missing_abstract": 0
+    },
+    {
+      "grant_year": 2018,
+      "n": 6981,
+      "core": 376,
+      "cpc_core": 364,
+      "ipc_core": 376,
+      "with_cpc": 6981,
+      "with_ipc": 6981,
+      "unknown_org": 407,
+      "missing_abstract": 0
+    },
+    {
+      "grant_year": 2019,
+      "n": 8111,
+      "core": 483,
+      "cpc_core": 474,
+      "ipc_core": 483,
+      "with_cpc": 8111,
+      "with_ipc": 8111,
+      "unknown_org": 377,
+      "missing_abstract": 0
+    },
+    {
+      "grant_year": 2020,
+      "n": 8027,
+      "core": 516,
+      "cpc_core": 510,
+      "ipc_core": 516,
+      "with_cpc": 8027,
+      "with_ipc": 8027,
+      "unknown_org": 391,
+      "missing_abstract": 0
+    },
+    {
+      "grant_year": 2021,
+      "n": 7121,
+      "core": 466,
+      "cpc_core": 462,
+      "ipc_core": 466,
+      "with_cpc": 7121,
+      "with_ipc": 7121,
+      "unknown_org": 370,
+      "missing_abstract": 0
+    },
+    {
+      "grant_year": 2022,
+      "n": 7337,
+      "core": 552,
+      "cpc_core": 548,
+      "ipc_core": 552,
+      "with_cpc": 7337,
+      "with_ipc": 7337,
+      "unknown_org": 374,
+      "missing_abstract": 0
+    },
+    {
+      "grant_year": 2023,
+      "n": 7161,
+      "core": 544,
+      "cpc_core": 538,
+      "ipc_core": 544,
+      "with_cpc": 7161,
+      "with_ipc": 7161,
+      "unknown_org": 313,
+      "missing_abstract": 0
+    },
+    {
+      "grant_year": 2024,
+      "n": 7705,
+      "core": 673,
+      "cpc_core": 668,
+      "ipc_core": 673,
+      "with_cpc": 7705,
+      "with_ipc": 7705,
+      "unknown_org": 310,
+      "missing_abstract": 0
+    }
+  ],
+  "portfolio": [
+    {
+      "n_rows": 1377130,
+      "patents": 1353121,
+      "organizations": 932,
+      "first_date": "2005-01-04",
+      "last_date": "2024-12-31",
+      "early_core_rows": 48
+    }
+  ],
+  "portfolio_duplicate_keys": [
+    {
+      "repeated_keys": 0
+    }
+  ],
+  "citation": [
+    {
+      "n_rows": 324764,
+      "distinct_pairs": 324764,
+      "cited_patents": 45115,
+      "citing_patents": 124741,
+      "first_date": "1995-03-21",
+      "last_date": "2024-12-31",
+      "unknown_citing_org_rows": 11294,
+      "missing_citing_application_rows": 0,
+      "same_application_rows": 0
+    }
+  ],
+  "citation_categories": [
+    {
+      "citation_category": "cited by applicant",
+      "n_rows": 232128,
+      "pairs": 232128,
+      "unknown_org_rows": 6390
+    },
+    {
+      "citation_category": "cited by examiner",
+      "n_rows": 90617,
+      "pairs": 90617,
+      "unknown_org_rows": 4860
+    },
+    {
+      "citation_category": "cited by other",
+      "n_rows": 1752,
+      "pairs": 1752,
+      "unknown_org_rows": 27
+    },
+    {
+      "citation_category": "imported from a related application",
+      "n_rows": 218,
+      "pairs": 218,
+      "unknown_org_rows": 8
+    },
+    {
+      "citation_category": "cited by third party",
+      "n_rows": 44,
+      "pairs": 44,
+      "unknown_org_rows": 8
+    },
+    {
+      "citation_category": null,
+      "n_rows": 5,
+      "pairs": 5,
+      "unknown_org_rows": 1
+    }
+  ],
+  "citation_years": [
+    {
+      "citing_year": 1995,
+      "n_rows": 2,
+      "unknown_org_rows": 0
+    },
+    {
+      "citing_year": 2000,
+      "n_rows": 1,
+      "unknown_org_rows": 0
+    },
+    {
+      "citing_year": 2001,
+      "n_rows": 2,
+      "unknown_org_rows": 1
+    },
+    {
+      "citing_year": 2003,
+      "n_rows": 1,
+      "unknown_org_rows": 0
+    },
+    {
+      "citing_year": 2005,
+      "n_rows": 1,
+      "unknown_org_rows": 0
+    },
+    {
+      "citing_year": 2006,
+      "n_rows": 2,
+      "unknown_org_rows": 0
+    },
+    {
+      "citing_year": 2007,
+      "n_rows": 2,
+      "unknown_org_rows": 0
+    },
+    {
+      "citing_year": 2008,
+      "n_rows": 1,
+      "unknown_org_rows": 0
+    },
+    {
+      "citing_year": 2009,
+      "n_rows": 2,
+      "unknown_org_rows": 0
+    },
+    {
+      "citing_year": 2010,
+      "n_rows": 162,
+      "unknown_org_rows": 10
+    },
+    {
+      "citing_year": 2011,
+      "n_rows": 1470,
+      "unknown_org_rows": 68
+    },
+    {
+      "citing_year": 2012,
+      "n_rows": 3619,
+      "unknown_org_rows": 165
+    },
+    {
+      "citing_year": 2013,
+      "n_rows": 6466,
+      "unknown_org_rows": 328
+    },
+    {
+      "citing_year": 2014,
+      "n_rows": 9803,
+      "unknown_org_rows": 487
+    },
+    {
+      "citing_year": 2015,
+      "n_rows": 12970,
+      "unknown_org_rows": 587
+    },
+    {
+      "citing_year": 2016,
+      "n_rows": 15889,
+      "unknown_org_rows": 783
+    },
+    {
+      "citing_year": 2017,
+      "n_rows": 19730,
+      "unknown_org_rows": 877
+    },
+    {
+      "citing_year": 2018,
+      "n_rows": 22467,
+      "unknown_org_rows": 896
+    },
+    {
+      "citing_year": 2019,
+      "n_rows": 31224,
+      "unknown_org_rows": 1030
+    },
+    {
+      "citing_year": 2020,
+      "n_rows": 36029,
+      "unknown_org_rows": 1126
+    },
+    {
+      "citing_year": 2021,
+      "n_rows": 35654,
+      "unknown_org_rows": 1435
+    },
+    {
+      "citing_year": 2022,
+      "n_rows": 36161,
+      "unknown_org_rows": 1110
+    },
+    {
+      "citing_year": 2023,
+      "n_rows": 43264,
+      "unknown_org_rows": 1118
+    },
+    {
+      "citing_year": 2024,
+      "n_rows": 49842,
+      "unknown_org_rows": 1273
+    }
+  ],
+  "citation_order": [
+    {
+      "before_cited_grant_rows": 17
+    }
+  ],
+  "grant_coverage": [
+    {
+      "grant_year": 2005,
+      "n_rows": 143806,
+      "last_grant": "2005-12-27"
+    },
+    {
+      "grant_year": 2006,
+      "n_rows": 173770,
+      "last_grant": "2006-12-26"
+    },
+    {
+      "grant_year": 2007,
+      "n_rows": 157281,
+      "last_grant": "2007-12-25"
+    },
+    {
+      "grant_year": 2008,
+      "n_rows": 157771,
+      "last_grant": "2008-12-30"
+    },
+    {
+      "grant_year": 2009,
+      "n_rows": 167347,
+      "last_grant": "2009-12-29"
+    },
+    {
+      "grant_year": 2010,
+      "n_rows": 219614,
+      "last_grant": "2010-12-28"
+    },
+    {
+      "grant_year": 2011,
+      "n_rows": 224505,
+      "last_grant": "2011-12-27"
+    },
+    {
+      "grant_year": 2012,
+      "n_rows": 253154,
+      "last_grant": "2012-12-25"
+    },
+    {
+      "grant_year": 2013,
+      "n_rows": 277834,
+      "last_grant": "2013-12-31"
+    },
+    {
+      "grant_year": 2014,
+      "n_rows": 300677,
+      "last_grant": "2014-12-30"
+    },
+    {
+      "grant_year": 2015,
+      "n_rows": 298408,
+      "last_grant": "2015-12-29"
+    },
+    {
+      "grant_year": 2016,
+      "n_rows": 303049,
+      "last_grant": "2016-12-27"
+    },
+    {
+      "grant_year": 2017,
+      "n_rows": 318828,
+      "last_grant": "2017-12-26"
+    },
+    {
+      "grant_year": 2018,
+      "n_rows": 307760,
+      "last_grant": "2018-12-25"
+    },
+    {
+      "grant_year": 2019,
+      "n_rows": 354428,
+      "last_grant": "2019-12-31"
+    },
+    {
+      "grant_year": 2020,
+      "n_rows": 351997,
+      "last_grant": "2020-12-29"
+    },
+    {
+      "grant_year": 2021,
+      "n_rows": 327321,
+      "last_grant": "2021-12-28"
+    },
+    {
+      "grant_year": 2022,
+      "n_rows": 322964,
+      "last_grant": "2022-12-27"
+    },
+    {
+      "grant_year": 2023,
+      "n_rows": 312075,
+      "last_grant": "2023-12-26"
+    },
+    {
+      "grant_year": 2024,
+      "n_rows": 324053,
+      "last_grant": "2024-12-31"
+    }
+  ],
+  "verified_raw": [
+    {
+      "file": "zenodo_15058362_20260929___README.pdf",
+      "bytes": 374677,
+      "md5": "077f02217b4927b8245bc9ad9e309292",
+      "checksum_matches": true,
+      "size_matches": true,
+      "readonly": true
+    },
+    {
+      "file": "zenodo_15058362_20260929__g_assignee_not_disambiguated.tsv.zip",
+      "bytes": 476589877,
+      "md5": "6154c6d989206de65b1367b886f744d3",
+      "checksum_matches": true,
+      "size_matches": true,
+      "readonly": true
+    },
+    {
+      "file": "zenodo_15058362_20260929__g_application.tsv.zip",
+      "bytes": 68669855,
+      "md5": "26001068098f4240e0762c63ffbb331e",
+      "checksum_matches": true,
+      "size_matches": true,
+      "readonly": true
+    },
+    {
+      "file": "zenodo_15058362_20260929__g_cpc_at_issue.tsv.zip",
+      "bytes": 321099326,
+      "md5": "6541c50b236d711f4b8f379a854a0c8a",
+      "checksum_matches": true,
+      "size_matches": true,
+      "readonly": true
+    },
+    {
+      "file": "zenodo_15058362_20260929__g_assignee_disambiguated.tsv.zip",
+      "bytes": 346950350,
+      "md5": "7fa0f23627570ce599d81d6fbb97fb98",
+      "checksum_matches": true,
+      "size_matches": true,
+      "readonly": true
+    },
+    {
+      "file": "zenodo_15058362_20260929__g_us_patent_citation.tsv.zip",
+      "bytes": 2156504596,
+      "md5": "8adcdfebadad98169faea57c29c9a51f",
+      "checksum_matches": true,
+      "size_matches": true,
+      "readonly": true
+    },
+    {
+      "file": "zenodo_15058362_20260929__g_ipc_at_issue.tsv.zip",
+      "bytes": 372052927,
+      "md5": "94e0f0a584595795c9ec28b51064799e",
+      "checksum_matches": true,
+      "size_matches": true,
+      "readonly": true
+    },
+    {
+      "file": "zenodo_15058362_20260929__g_patent_abstract.tsv.zip",
+      "bytes": 1647990737,
+      "md5": "bb7ff59781633edb61032429a7d8f6f1",
+      "checksum_matches": true,
+      "size_matches": true,
+      "readonly": true
+    },
+    {
+      "file": "zenodo_15058362_20260929__g_patent.tsv.zip",
+      "bytes": 223192856,
+      "md5": "f74fbde4b2adbf980b8e4ed5394f16d2",
+      "checksum_matches": true,
+      "size_matches": true,
+      "readonly": true
+    }
+  ],
+  "output_manifest": [
+    {
+      "file": "patent_domain.parquet",
+      "bytes": 28907556,
+      "sha256": "076244ea9690e0d60e6147e12eefbdf3698987b281b1b80a0a4154dc477057b4"
+    },
+    {
+      "file": "patent_portfolios.parquet",
+      "bytes": 86211208,
+      "sha256": "08c2085cbb53f80dfa09ab989e06d20e99ebc58acd391a7b0b00ed8c82529392"
+    },
+    {
+      "file": "patent_citations.parquet",
+      "bytes": 6772564,
+      "sha256": "8faa5217f79effaf1136ed1c115e56ac60fabadd774766ea65ac6e269b8c8d8e"
+    },
+    {
+      "file": "patent_all_grants_meta.parquet",
+      "bytes": 108144708,
+      "sha256": "08b9a1eb5a7cc6238d92411ea3c7f0b35ab2062dbb6af9221697b6901334be06"
+    },
+    {
+      "file": "patent_assignee_disambig.parquet",
+      "bytes": 170016116,
+      "sha256": "6e10065607f7310ea107b66b2c44a032dbef9cde0102449099452e87693194ce"
+    }
+  ],
+  "audit_status": "completed_with_reported_coverage_limits"
+}

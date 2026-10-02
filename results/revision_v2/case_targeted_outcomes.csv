@@ -1,0 +1,3 @@
+case_id,patent_id,year,future_external_organizations,future_external_citing_patents,future_core_organizations,future_core_citing_patents,future_core_applicant_citing_patents,future_core_examiner_citing_patents,core_citing_ids,core_citing_filing_dates,core_citing_filed_after_origin
+targeted_10717367,10717367,2020,6,8,1,1,0,1,11801773,2022-08-18,True
+targeted_10889157,10889157,2021,3,3,1,1,0,1,11390137,2020-01-15,False

@@ -1,0 +1,66 @@
+{
+  "results\\revision_v2\\taskpool_raw_pools_2018.parquet": {
+    "bytes": 2561017,
+    "sha256": "f46b9b9132fb6e3cd371e93236b1d41a6694f7a4d8d945fe118be02c8a8abecf"
+  },
+  "datasets\\revision_v2\\task_patent_labels.parquet": {
+    "bytes": 532706,
+    "sha256": "bdc1c4cf7b29e3baa57bb5a64aa7fbab376403f4cecdba83e8ada869548c5f61"
+  },
+  "results\\primary_v1\\scores_2020.parquet": {
+    "bytes": 4500864,
+    "sha256": "76acd59487d82fc9f5a1324ae189c66ed9a590008ad5a9671f39ad4ba3fd9952"
+  },
+  "results\\revision_v2\\taskpool_raw_pools_2020.parquet": {
+    "bytes": 3622435,
+    "sha256": "4032e6d7f6f8f6d48800947d9d5b8c92f016525f346784b815b066231f6dd0dd"
+  },
+  "results\\revision_v3\\decision_pool_exposure.parquet": {
+    "bytes": 1420931,
+    "sha256": "3461179337014104c516f44c935c42f5f91d42e0e3a96378203b57e8f6031087"
+  },
+  "results\\revision_v3\\decision_selected.parquet": {
+    "bytes": 1124762,
+    "sha256": "09dd4b8f8d74eb1f5070f14347d9713a11f3b6c3a26ba7eef71c1cf126ec88e1"
+  },
+  "results\\revision_v2\\taskpool_raw_pools_2021.parquet": {
+    "bytes": 3446430,
+    "sha256": "fe159037795d3cc3943db5d3e8bde1d1dae7430caf7c6b792601b903829bace5"
+  },
+  "results\\primary_v1\\scores_2019.parquet": {
+    "bytes": 4580126,
+    "sha256": "486fa2b9adbce638ecf7f3bd64ad59644a7a156b38ccb356b68d239d07089c76"
+  },
+  "results\\primary_v1\\scores_2021.parquet": {
+    "bytes": 3960265,
+    "sha256": "2a73289c2e4310ded9744701c2d4b69cfda08c37ff44d50e1570b6d85f1ec4db"
+  },
+  "results\\revision_v2\\taskpool_raw_situations.parquet": {
+    "bytes": 23170,
+    "sha256": "44576d9531f6db3d84c572742ca0f16fd63cd353bca5fa9587e7363263fc08ad"
+  },
+  "results\\primary_v1\\scores_2018.parquet": {
+    "bytes": 3884818,
+    "sha256": "025da178873c6e568abed381ee6aeffbd672f8ca0d824c17ad991208c85c40b1"
+  },
+  "results\\revision_v2\\taskpool_raw_pools_2019.parquet": {
+    "bytes": 3447973,
+    "sha256": "b0fcbaad01d0e1222adb56930b6dba534f3e515873e7c0447e4e090e2a4a9cd9"
+  },
+  "results\\revision_v3\\validation_pools.parquet": {
+    "bytes": 7293767,
+    "sha256": "0b8e85956a16f702ec4969630274f16b6b30d3fc3a3f9c85cf6e78ab98553772"
+  },
+  "results\\revision_v3\\validation_situations.parquet": {
+    "bytes": 28660,
+    "sha256": "05cfafaeaf64b75ebc90529c278fefd371b20974adf4d774eb0ced3ab4811d38"
+  },
+  "results\\revision_v3\\validation_selected.parquet": {
+    "bytes": 1005136,
+    "sha256": "439bd09a01d8edbb43eb004a4e2784972ad133ed26613a2cb5bb994564e16a68"
+  },
+  "datasets\\revision_v3\\validation_labels.parquet": {
+    "bytes": 70979,
+    "sha256": "ddc9fa1a4ec49bdca9815a3dd13c685e7fd528de589fc6116546623d4250c854"
+  }
+}

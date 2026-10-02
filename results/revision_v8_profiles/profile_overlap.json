@@ -1,0 +1,14 @@
+{
+  "battery_owner_keys": 114,
+  "electronics_owner_keys": 371,
+  "owner_intersection": 53,
+  "owner_union": 432,
+  "battery_only_owner_keys": 61,
+  "electronics_only_owner_keys": 318,
+  "organization_year_intersection": 156,
+  "organization_year_union": 1277,
+  "history_grants_battery": 388887,
+  "history_grants_electronics": 835327,
+  "history_grants_intersection": 347879,
+  "note": "History grant unions are unique grants across all included preceding-five-year portfolios; co-owners and windows overlap. They are not candidate/selected-document overlap."
+}

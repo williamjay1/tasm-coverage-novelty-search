@@ -1,0 +1,30 @@
+{
+  "methods": [
+    "paired organization resampling",
+    "independent organization×patent Exp(1) product multiplier sensitivity"
+  ],
+  "draws_each": 2000,
+  "mean_denominator": "sum origin-organization weight × patent weight × complete-pool exposure 1/pool_n for included fixed situations",
+  "ratio_denominator": "sum origin-organization weight × patent weight × introduced-document-event indicator; numerator includes both entering and removed signed links",
+  "fixed_binding_groups": "Origin-known B(C) unfamiliar counts and fixed list exchange only; no outcome-selected subgroup",
+  "ratio_zero_draws": "Excluded only when bootstrap introduced-event denominator is zero; finite counts retained",
+  "ranges": "Crossed ranges are fixed-list dependence sensitivities, not validated exact nominal confidence intervals; no causal or new-sample claim",
+  "runtime_seconds": 17.528445400006603,
+  "actual": [
+    {
+      "task": "battery",
+      "descriptors": 12,
+      "unique_pool_exposure_denominators": 5,
+      "organizations": 114,
+      "unique_patents": 27187
+    },
+    {
+      "task": "electronics",
+      "descriptors": 12,
+      "unique_pool_exposure_denominators": 4,
+      "organizations": 371,
+      "unique_patents": 16756
+    }
+  ],
+  "ratio_interpretation": "Signed net-yield ratio, not probability. Crossed weights differ for introduced and removed patent identities, so sensitivity endpoints may exceed -1 or 1."
+}

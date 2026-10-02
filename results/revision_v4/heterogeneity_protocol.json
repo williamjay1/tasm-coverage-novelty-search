@@ -1,0 +1,24 @@
+{
+  "stage": "V4 post-hoc descriptive boundary analysis after battery outcomes were known",
+  "task": "Existing battery core_task raw-name sample, frozen pair lists, K30, both rankers",
+  "admission": "All356 organization-year situations and114 unique raw organization keys",
+  "grouping": {
+    "core_history_fraction": "low<.02; middle .02<=fraction<=.05; high>.05",
+    "tertiles": "Linear quantiles at1/3 and2/3 over356 origin situations, not model duplicates; low<=q1, mid q1<x<=q2, high>q2; do not split ties",
+    "breadth": "Distinct four-character CPC/IPC subclass union over all focal preceding-five-complete-year granted patents, including core and noncore; raw-name membership, co-owned grants counted once per focal owner"
+  },
+  "main": "Original pair q30 minus Top30 (naive), matched minus Top30 (capacity), q30 minus matched (controlled); task T",
+  "descriptors": [
+    "situations",
+    "unique raw organization keys",
+    "Top30 core seats",
+    "delta core seats",
+    "three task differences and W/T/L",
+    "strict naive-positive/controlled-negative frequency",
+    "original quota binding and changed ID quantities"
+  ],
+  "supporting": "C9 novelty-blind minus Top30 within the same descriptive groups",
+  "uncertainty": "Only core-share controlled contrast:2000 paired organization resamples seed20261001; eligible only if n>=30 situations and>=15 unique organizations; otherwise descriptive only",
+  "limits": "Origin groups are post-hoc and the same organization can appear in several groups across years. No causal moderation, new independent validation, cognitive distance or absorptive-capacity measure. No group significance ranking. No grid/model rerun.",
+  "D_free_bytes": 225036849152
+}

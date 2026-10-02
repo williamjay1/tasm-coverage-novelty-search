@@ -1,0 +1,9 @@
+{
+  "pilot": true,
+  "situations_per_task": 5,
+  "seconds": 3.9919966000015847,
+  "checks": 150,
+  "checks_passed": true,
+  "D_free_bytes": 150095327232,
+  "predictor_fits": 0
+}

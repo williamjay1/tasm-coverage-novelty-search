@@ -1,0 +1,3 @@
+# Data and figure reuse
+
+Patent-derived archive data in datasets/, data_parts/ and analysis outputs in results/ retain CC BY 4.0, https://creativecommons.org/licenses/by/4.0/. Attribute the underlying USPTO PatentsView release through 2024-12-31, source DOI https://doi.org/10.5281/zenodo.15058362, and Junjie Zhang for filtering, normalization, aggregation, labels and screening analyses. Public records are not a human-participant dataset. Source bibliographic locators and author-created functional coding are included; third-party scholarly full texts and patent-page mirrors are excluded. Author-created figures/table data and release documentation are CC BY 4.0. Software is separately MIT. Neither license overrides rights in excluded third-party works.

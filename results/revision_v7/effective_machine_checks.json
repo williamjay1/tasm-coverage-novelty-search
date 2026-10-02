@@ -1,0 +1,778 @@
+{
+  "status": "PASS",
+  "checks_passed": 154,
+  "checks": [
+    {
+      "check": "unique_policy_rows",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unique_selected_rows",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "thirty_documents_every_policy",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "selected_sum_recovery_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "selected_sum_recovery_novel_document_exposure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "selected_sum_recovery_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "selected_sum_recovery_core_selected",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_boosting_coverage6_to12_fixed_floor3_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_boosting_coverage6_to12_fixed_floor3_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_battery_boosting_coverage6_to12_fixed_floor3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_boosting_coverage_to9_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_boosting_coverage_to9_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_battery_boosting_coverage_to9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_boosting_coverage_to_C00_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_boosting_coverage_to_C00_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_battery_boosting_coverage_to_C00",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_boosting_coverage_to_C03_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_boosting_coverage_to_C03_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_battery_boosting_coverage_to_C03",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_boosting_coverage_to_C06_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_boosting_coverage_to_C06_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_battery_boosting_coverage_to_C06",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_boosting_coverage_to_C09_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_boosting_coverage_to_C09_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_battery_boosting_coverage_to_C09",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_boosting_coverage_to_C12_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_boosting_coverage_to_C12_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_battery_boosting_coverage_to_C12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_boosting_coverage_to_C15_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_boosting_coverage_to_C15_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_battery_boosting_coverage_to_C15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_boosting_coverage_to_C30_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_boosting_coverage_to_C30_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_battery_boosting_coverage_to_C30",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_boosting_legacy_within_match_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_boosting_legacy_within_match_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_battery_boosting_legacy_within_match",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_boosting_within_C9_floor3_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_boosting_within_C9_floor3_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_battery_boosting_within_C9_floor3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_ridge_coverage6_to12_fixed_floor3_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_ridge_coverage6_to12_fixed_floor3_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_battery_ridge_coverage6_to12_fixed_floor3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_ridge_coverage_to9_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_ridge_coverage_to9_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_battery_ridge_coverage_to9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_ridge_coverage_to_C00_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_ridge_coverage_to_C00_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_battery_ridge_coverage_to_C00",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_ridge_coverage_to_C03_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_ridge_coverage_to_C03_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_battery_ridge_coverage_to_C03",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_ridge_coverage_to_C06_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_ridge_coverage_to_C06_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_battery_ridge_coverage_to_C06",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_ridge_coverage_to_C09_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_ridge_coverage_to_C09_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_battery_ridge_coverage_to_C09",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_ridge_coverage_to_C12_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_ridge_coverage_to_C12_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_battery_ridge_coverage_to_C12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_ridge_coverage_to_C15_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_ridge_coverage_to_C15_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_battery_ridge_coverage_to_C15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_ridge_coverage_to_C30_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_ridge_coverage_to_C30_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_battery_ridge_coverage_to_C30",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_ridge_legacy_within_match_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_ridge_legacy_within_match_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_battery_ridge_legacy_within_match",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_ridge_within_C9_floor3_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_battery_ridge_within_C9_floor3_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_battery_ridge_within_C9_floor3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_boosting_coverage6_to12_fixed_floor3_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_boosting_coverage6_to12_fixed_floor3_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_electronics_boosting_coverage6_to12_fixed_floor3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_boosting_coverage_to9_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_boosting_coverage_to9_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_electronics_boosting_coverage_to9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_boosting_coverage_to_C00_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_boosting_coverage_to_C00_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_electronics_boosting_coverage_to_C00",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_boosting_coverage_to_C03_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_boosting_coverage_to_C03_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_electronics_boosting_coverage_to_C03",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_boosting_coverage_to_C06_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_boosting_coverage_to_C06_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_electronics_boosting_coverage_to_C06",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_boosting_coverage_to_C09_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_boosting_coverage_to_C09_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_electronics_boosting_coverage_to_C09",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_boosting_coverage_to_C12_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_boosting_coverage_to_C12_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_electronics_boosting_coverage_to_C12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_boosting_coverage_to_C15_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_boosting_coverage_to_C15_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_electronics_boosting_coverage_to_C15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_boosting_coverage_to_C30_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_boosting_coverage_to_C30_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_electronics_boosting_coverage_to_C30",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_boosting_legacy_within_match_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_boosting_legacy_within_match_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_electronics_boosting_legacy_within_match",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_boosting_within_C9_floor3_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_boosting_within_C9_floor3_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_electronics_boosting_within_C9_floor3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_ridge_coverage6_to12_fixed_floor3_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_ridge_coverage6_to12_fixed_floor3_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_electronics_ridge_coverage6_to12_fixed_floor3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_ridge_coverage_to9_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_ridge_coverage_to9_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_electronics_ridge_coverage_to9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_ridge_coverage_to_C00_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_ridge_coverage_to_C00_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_electronics_ridge_coverage_to_C00",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_ridge_coverage_to_C03_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_ridge_coverage_to_C03_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_electronics_ridge_coverage_to_C03",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_ridge_coverage_to_C06_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_ridge_coverage_to_C06_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_electronics_ridge_coverage_to_C06",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_ridge_coverage_to_C09_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_ridge_coverage_to_C09_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_electronics_ridge_coverage_to_C09",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_ridge_coverage_to_C12_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_ridge_coverage_to_C12_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_electronics_ridge_coverage_to_C12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_ridge_coverage_to_C15_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_ridge_coverage_to_C15_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_electronics_ridge_coverage_to_C15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_ridge_coverage_to_C30_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_ridge_coverage_to_C30_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_electronics_ridge_coverage_to_C30",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_ridge_legacy_within_match_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_ridge_legacy_within_match_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_electronics_ridge_legacy_within_match",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_ridge_within_C9_floor3_task_linked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "signed_event_recovery_electronics_ridge_within_C9_floor3_general_reach",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entering_event_recovery_electronics_ridge_within_C9_floor3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "nonbinding_exact_identical_selection",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "nonbinding_all_three_zero",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "origin_r_equals_entering",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "within_C9_exposure_gain_equals_interventions",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "baseline_count_battery_boosting",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "baseline_count_battery_ridge",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "baseline_count_electronics_boosting",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "baseline_count_electronics_ridge",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "archived_recovery_all",
+      "passed": true,
+      "detail": 22210
+    },
+    {
+      "check": "original_task_numerator_boosting_U",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "original_task_numerator_boosting_legacy",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "original_task_numerator_boosting_legacy_matched",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "original_task_numerator_ridge_U",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "original_task_numerator_ridge_legacy",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "original_task_numerator_ridge_legacy_matched",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "recovery_row_count": 22210,
+  "scope": "Exact old selections and new signed contributions; no independent new outcome evidence"
+}

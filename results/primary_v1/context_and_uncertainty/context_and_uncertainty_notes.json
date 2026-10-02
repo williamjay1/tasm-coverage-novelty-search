@@ -1,0 +1,30 @@
+{
+  "source_run": "<project>\\results\\primary_v1",
+  "input_paired_rows": 128160,
+  "development_end_requested": 2015,
+  "development_years_observed": [
+    2013,
+    2014,
+    2015
+  ],
+  "heldout_years_observed": [
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "synthetic_software_test": false,
+  "seed": 20260929,
+  "bootstrap_repeats": 1000,
+  "cutpoints": "Development-only median distant-pool share and K/pool size, deduplicated by organization, year, model, K and distance; separate cutpoints per model/K/distance. Equality is high.",
+  "standardization": "Secondary descriptive comparison. Cells are year x far-supply bin x budget-fraction bin. Only cells containing both contexts contribute. Both contexts use weights proportional to the smaller context count in each cell. Raw primary results and their sample are not changed.",
+  "no_support": "No common support yields missing standardized effects, not extrapolation. Support counts and fractions are reported.",
+  "joint_resampling": "Identical sampled organization indices jointly generate distant-gain means and ratio-of-sums total-hit retention. Intervals are pointwise marginal 2.5/97.5 percentiles, not a joint confidence region.",
+  "uncertainty_scope": "Fixed historical corpus and years. Organization exchangeability is an additional assumption; shared candidates and year shocks are not solved by this resampling. No future-environment coverage or causal claim is made.",
+  "small_clusters": "Fewer than five organizations: no intervals. Five to nine: caution flag. These are reporting safeguards, not sufficient conditions for reliable inference.",
+  "zero_denominator": "Observed zero baseline gives undefined retention. If any bootstrap replicate has a zero baseline denominator, retention interval is suppressed rather than conditioning on nonzero draws.",
+  "zero_far_pool_excess_diagnostic_convention_rows": 0,
+  "zero_far_pool_note": "With zero distant supply, selections and distant gains must be zero; the excess diagnostic is algebraically zero. Only the in-memory secondary diagnostic is completed; input files are untouched.",
+  "retention_interpretation": "A development retention target is not a held-out guarantee. No tolerance threshold is justified by these intervals.",
+  "random_policies": "Random-seed policy labels remain separate; no seed is treated as an independent organization."
+}

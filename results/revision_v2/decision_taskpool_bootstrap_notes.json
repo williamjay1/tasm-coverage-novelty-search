@@ -1,0 +1,9 @@
+{
+  "scope": "Post-critique paired organization bootstrap, fixed task pools/scores/lists",
+  "sampling": "Resample organizations with replacement, retain all their historical situations; divide differences by sampled number of situations; calculate R and S as pooled ratios.",
+  "n_comparisons": 12,
+  "repeats": 2000,
+  "seed": 20260929,
+  "point_audit": "PASS all four point metrics against decision_taskpool_signals.csv",
+  "limits": "Shared candidate patents and only four historical years remain. Organization resampling does not resolve cross-organization shared outcomes, identify behavior, or provide future-environment transportability."
+}

@@ -1,0 +1,62 @@
+{
+  "scripts/revision_v8_sensitivity_analysis.py": {
+    "bytes": 37085,
+    "sha256": "b2632d0c261b21658590ab61fcfd4506da1cf8b2e5149f15b28fd30dce7e3718"
+  },
+  "scripts/policy_core.py": {
+    "bytes": 7230,
+    "sha256": "fb5ee71c3c3dfec5d5a5940464b8c092b6768b1b5fe7142d5120746a20f3343c"
+  },
+  "results/revision_v8/sensitivity_protocol.json": {
+    "bytes": 5154,
+    "sha256": "b0f13411bced5a54790b5f124cbad7db2991060a3cbdcb7f6eafca766aea384d"
+  },
+  "results/revision_v8/sensitivity_protocol_lock.json": {
+    "bytes": 131,
+    "sha256": "4fdf189eb7cd8c8b93dc4362b06cfa683a0da473df88cf2ee0e1ad9b5971b73e"
+  },
+  "results/revision_v8/mature_window_candidate_labels.parquet": {
+    "bytes": 192231,
+    "sha256": "ec4004e11d870803848639304e0cff46c12d4aac2de93481e48c93785c531452"
+  },
+  "results/revision_v7/effective_pools.parquet": {
+    "bytes": 18645471,
+    "sha256": "ade2f82a873bcd4347b381f88f261ddc25f80596076c2726ae2e89b1d24e20d2"
+  },
+  "results/revision_v7/effective_selected.parquet": {
+    "bytes": 1515633,
+    "sha256": "91043151608c8e3b89f5ca721e61771add15c114b7fdb21ee2666891f7673f11"
+  },
+  "results/revision_v7/effective_contrast_detail.parquet": {
+    "bytes": 157728,
+    "sha256": "5e2ee20233fe33d723ca4ac12090d5693f77c5f6f661bb8978803e1821e6a804"
+  },
+  "results/revision_v7/effective_signed_events.parquet": {
+    "bytes": 1138353,
+    "sha256": "53214bce783c54e2dfda1f003519cd0f928951da5848446f8de069c1e806bd02"
+  },
+  "datasets/revision_v2/task_five_year_edges.parquet": {
+    "bytes": 3750233,
+    "sha256": "430c3e4155ad4fc109482ea864d7f15edc4503a2e52e56c57b3b5c69213501c8"
+  },
+  "datasets/revision_v2/task_patent_labels.parquet": {
+    "bytes": 532706,
+    "sha256": "bdc1c4cf7b29e3baa57bb5a64aa7fbab376403f4cecdba83e8ada869548c5f61"
+  },
+  "datasets/revision_v3/validation_electronics_grants.parquet": {
+    "bytes": 799401,
+    "sha256": "26589cdbb04265743d45844b52bcd89205b0748b87c9aa24f6658b53cf8fd8a4"
+  },
+  "datasets/canonical_v1/labels.duckdb": {
+    "bytes": 61616128,
+    "sha256": "3628c1141bba0cadf16dc4f6a3471d16b44ef92b08805c5dbb80c45600a71dc5"
+  },
+  "research/revision_v6_protocol_2022_final.json": {
+    "bytes": 24197,
+    "sha256": "63e7477e9b0f100ba9220cac4a60a4f342c8569373c758b8736d568e70b25048"
+  },
+  "research/revision_v6_protocol_2022_final_lock.json": {
+    "bytes": 408,
+    "sha256": "1449e6ff38656cf81b853b4ee425778fbce920981c65983d7cb900fa6c60c926"
+  }
+}

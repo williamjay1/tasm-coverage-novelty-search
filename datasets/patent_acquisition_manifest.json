@@ -1,0 +1,57 @@
+{
+  "record": "15058362",
+  "retrieved": "2026-09-29T10:00:40.812590+00:00",
+  "record_title": "Final release of PatentsView metadata, pre-grant and granted (12/31/2024)",
+  "license": {
+    "id": "cc-by-4.0"
+  },
+  "coverage_end": "2024-12-31",
+  "files": [
+    {
+      "key": "g_patent.tsv.zip",
+      "path": "<source-raw>\\zenodo_15058362_20260929__g_patent.tsv.zip",
+      "size": 223192856,
+      "expected_md5": "f74fbde4b2adbf980b8e4ed5394f16d2",
+      "status": "existing_raw"
+    },
+    {
+      "key": "g_cpc_at_issue.tsv.zip",
+      "path": "<source-raw>\\zenodo_15058362_20260929__g_cpc_at_issue.tsv.zip",
+      "size": 321099326,
+      "expected_md5": "6541c50b236d711f4b8f379a854a0c8a",
+      "status": "existing_raw"
+    },
+    {
+      "key": "g_assignee_disambiguated.tsv.zip",
+      "path": "<source-raw>\\zenodo_15058362_20260929__g_assignee_disambiguated.tsv.zip",
+      "size": 346950350,
+      "expected_md5": "7fa0f23627570ce599d81d6fbb97fb98",
+      "status": "existing_raw"
+    },
+    {
+      "key": "g_application.tsv.zip",
+      "path": "<source-raw>\\zenodo_15058362_20260929__g_application.tsv.zip",
+      "size": 68669855,
+      "expected_md5": "26001068098f4240e0762c63ffbb331e",
+      "status": "existing_raw"
+    },
+    {
+      "key": "g_patent_abstract.tsv.zip",
+      "url": "https://zenodo.org/records/15058362/files/g_patent_abstract.tsv.zip?download=1",
+      "path": "<source-raw>\\zenodo_15058362_20260929__g_patent_abstract.tsv.zip",
+      "size": 1647990737,
+      "md5": "bb7ff59781633edb61032429a7d8f6f1",
+      "status": "verified",
+      "download_seconds": 525.6
+    },
+    {
+      "key": "g_us_patent_citation.tsv.zip",
+      "url": "https://zenodo.org/records/15058362/files/g_us_patent_citation.tsv.zip?download=1",
+      "path": "<source-raw>\\zenodo_15058362_20260929__g_us_patent_citation.tsv.zip",
+      "size": 2156504596,
+      "md5": "8adcdfebadad98169faea57c29c9a51f",
+      "status": "verified",
+      "download_seconds": 964.9
+    }
+  ]
+}

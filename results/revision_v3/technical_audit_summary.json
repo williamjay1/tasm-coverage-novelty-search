@@ -1,0 +1,25 @@
+{
+  "case_records": 34,
+  "unique_patents": 30,
+  "groups": {
+    "existing_result_stratified:analogy": 11,
+    "existing_result_stratified:direct": 2,
+    "existing_result_stratified:lexical": 1,
+    "existing_result_stratified:unknown": 2,
+    "existing_targeted:direct": 2,
+    "new_outcome_independent:analogy": 4,
+    "new_outcome_independent:direct": 10,
+    "new_outcome_independent:unknown": 2
+  },
+  "unique_patent_judgments": {
+    "analogy": 15,
+    "direct": 11,
+    "lexical": 1,
+    "unknown": 3
+  },
+  "new_records": 16,
+  "new_unique_patents": 14,
+  "all_complete": true,
+  "pending": [],
+  "claims": "Documented function and plausible analogy only, not transfer feasibility, expert validity, or focal-firm value."
+}

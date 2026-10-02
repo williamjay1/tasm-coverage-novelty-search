@@ -1,0 +1,61 @@
+{
+  "years": [
+    2013,
+    2014,
+    2015
+  ],
+  "old_core_task_situations": 60,
+  "old_unique_organization_keys": 26,
+  "source_bytes": {
+    "datasets\\canonical_v1\\study_patents.parquet": 27743841,
+    "datasets\\canonical_v1\\study_portfolios.parquet": 41878981,
+    "datasets\\revision_v2\\task_patent_labels.parquet": 532706
+  },
+  "slim_history_rows_2008_2014": 388410,
+  "core_title_history_rows_2008_2014": 480,
+  "corpus_title_rows": 85894,
+  "scores": {
+    "2013": {
+      "rows": 3949,
+      "bytes": 2088552,
+      "missing_task_labels": 0
+    },
+    "2014": {
+      "rows": 4487,
+      "bytes": 2457015,
+      "missing_task_labels": 0
+    },
+    "2015": {
+      "rows": 5235,
+      "bytes": 3086951,
+      "missing_task_labels": 0
+    }
+  },
+  "load_seconds": 1.5098365000158083,
+  "D_free_bytes": 153090105344,
+  "status": "PASS",
+  "accepted_situations": 60,
+  "unique_organizations": 26,
+  "policy_rows": 3164,
+  "selected_events": 94920,
+  "pool_exposures": 69643,
+  "accepted_years": {
+    "2013": 15,
+    "2014": 19,
+    "2015": 26
+  },
+  "recovery": "Exact prior core-task history counts, classification coverage and candidate/core pool counts; original v1 pool not substituted",
+  "nonbinding": "All feasible same-C nonbinding floors preserve exact identifiers; additions novel and removals nonnovel",
+  "predictor_fits": 0,
+  "heldout_years_used": 0,
+  "new_2022_external_validation": false,
+  "output_bytes": 1880839,
+  "year_reconstruction_seconds": {
+    "2013": 7.410107200004859,
+    "2014": 12.359541500016348,
+    "2015": 16.785507200023858
+  },
+  "complete_point_run_seconds": 44.04599270000472,
+  "complete_readonly_source_bytes": 78087345,
+  "source_manifest": "development_source_manifest.json"
+}

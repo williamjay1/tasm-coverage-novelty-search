@@ -1,0 +1,22 @@
+{
+  "g_cpc_at_issue": [
+    {
+      "n_rows": 23002345,
+      "unknown_action_date": 93344,
+      "after_grant": 0,
+      "at_grant": 22909001,
+      "before_grant": 0
+    }
+  ],
+  "g_cpc_at_issue_later_examples": [],
+  "g_ipc_at_issue": [
+    {
+      "n_rows": 19753017,
+      "unknown_action_date": 199635,
+      "after_grant": 0,
+      "at_grant": 19553382,
+      "before_grant": 0
+    }
+  ],
+  "g_ipc_at_issue_later_examples": []
+}

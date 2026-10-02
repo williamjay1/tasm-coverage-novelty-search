@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="518.740157pt" height="375.8pt" viewBox="0 0 518.740157 375.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-02T16:40:12.468309</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 375.8 
+L 518.740157 375.8 
+L 518.740157 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 0 27.8 
+L 518.740157 27.8 
+" clip-path="url(#p16f1925b1c)" style="fill: none; stroke: #222222; stroke-width: 0.8"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 0 52.9 
+L 518.740157 52.9 
+" clip-path="url(#p16f1925b1c)" style="fill: none; stroke: #222222; stroke-width: 0.5"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 0 323.6 
+L 518.740157 323.6 
+" clip-path="url(#p16f1925b1c)" style="fill: none; stroke: #222222; stroke-width: 0.8"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial'; text-anchor: start; fill: #202124" x="5" y="14.128613" transform="rotate(-0 5 14.128613)">Table 4. Proposed routes from shortlist to technical assessment</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'Arial'; text-anchor: start; fill: #202124" x="5" y="43.291318" transform="rotate(-0 5 43.291318)">Route</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'Arial'; text-anchor: start; fill: #202124" x="84.370079" y="42.4096" transform="rotate(-0 84.370079 42.4096)">Evidence packet</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'Arial'; text-anchor: start; fill: #202124" x="237.440945" y="43.291318" transform="rotate(-0 237.440945 43.291318)">Next assessment</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'Arial'; text-anchor: start; fill: #202124" x="370.669291" y="43.346982" transform="rotate(-0 370.669291 43.346982)">Gate for the current task</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 9.5px; font-family: 'Arial'; text-anchor: start; fill: #202124" x="5" y="68.449209" transform="rotate(-0 5 68.449209)">Direct function</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(84.370079 67.447256)">Documented task object and</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(84.370079 79.796963)">thermal path; disclosed</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(84.370079 92.093232)">interfaces and limits; missing</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(84.370079 104.387275)">conditions flagged</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(237.440945 67.447256)">Task engineer checks</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(237.440945 80.068604)">contact, insulation,</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(237.440945 92.035342)">leakage and operating</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(237.440945 104.385049)">envelope</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(370.669291 67.505146)">Advance to technical feasibility</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(370.669291 80.685361)">review when the documented</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(370.669291 93.037295)">function matches the need</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(5 132.791318)">Mechanism</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(5 144.141299)">analogy</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(84.370079 132.232451)">Documented source function;</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(84.370079 145.143252)">candidate transferable</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(84.370079 156.548896)">principle; differences in</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(84.370079 168.729385)">medium, geometry and</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(84.370079 181.96749)">conditions</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(237.440945 131.90292)">Appropriate specialist</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(237.440945 144.254854)">identifies adaptations and</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(237.440945 156.493232)">requirements for the target</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(237.440945 168.785049)">application</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(370.669291 131.90292)">Advance as an adaptation</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(370.669291 144.196963)">question, with unresolved</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(370.669291 157.437295)">transfer conditions recorded</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(5 209.40292)">Unsupported</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(5 222.585361)">match</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(84.370079 209.405146)">Text showing a different object</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(84.370079 222.026494)">or function; no task-relevant</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(84.370079 234.048896)">transfer principle identified in</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(84.370079 247.173447)">the text examined</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(237.440945 209.347256)">Analyst records the</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(237.440945 221.641299)">mismatch and checks any</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(237.440945 233.991006)">separate documented</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(237.440945 246.287275)">justification</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(370.669291 210.346982)">Close the current task track</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(370.669291 222.643252)">unless further text establishes</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(370.669291 234.937295)">a relevant function or transfer</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(370.669291 246.285049)">principle</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(5 274.689092)">Unresolved</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(5 286.985361)">evidence</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(84.370079 273.805146)">Missing function or thermal</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(84.370079 286.096963)">path; exact text or claims</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(84.370079 298.391006)">required to decide</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(237.440945 273.747256)">Analyst retrieves the</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(237.440945 286.154854)">specified description or</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(237.440945 298.720537)">claims, or defers the</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(237.440945 311.573447)">candidate</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(370.669291 273.80292)">Keep unresolved until</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(370.669291 286.154854)">sufficient evidence supports</text>
+    <text style="font-size: 9.5px; font-family: 'Arial'; fill: #202124" transform="translate(370.669291 299.279404)">another route</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 9px; font-family: 'Arial'; fill: #202124" transform="translate(5 341.692461)">Note. Routes are proposed evidence and action states illustrated by historical desk assessment. They are not measured</text>
+    <text style="font-size: 9px; font-family: 'Arial'; fill: #202124" transform="translate(5 353.384414)">classification accuracies, expert endorsements or tested staffing arrangements. An organization's distribution of the</text>
+    <text style="font-size: 9px; font-family: 'Arial'; fill: #202124" transform="translate(5 364.96668)">analyst and reviewer responsibilities may vary.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p16f1925b1c">
+   <rect x="0" y="0" width="518.740157" height="375.8"/>
+  </clipPath>
+ </defs>
+</svg>

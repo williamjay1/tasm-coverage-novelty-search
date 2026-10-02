@@ -1,0 +1,18 @@
+{
+  "article": "Evaluating coverage and novelty in technology intelligence",
+  "stage_order": [
+    "objective",
+    "baseline shortlist",
+    "task allocation",
+    "unfamiliar shortfall",
+    "actual feasible selection"
+  ],
+  "shared_assessments": [
+    "current proposed source handoff",
+    "later retrospective archival evaluation"
+  ],
+  "shortfall": "d=max(0,m-n_B(C))",
+  "d_zero": "same list as B(C)",
+  "d_positive": "d core exchanges",
+  "handoff_status": "proposed; not expert or organizational validation"
+}

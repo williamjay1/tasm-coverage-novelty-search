@@ -1,0 +1,12 @@
+{
+  "year": 2013,
+  "n_train": 3246,
+  "latest_training_grant_year": 2010,
+  "latest_training_label_year": 2013,
+  "vocabulary_size": 20000,
+  "distance_vocabulary_size": 2891,
+  "distance_representation": "title_only_for_both_portfolios_and_candidates",
+  "n_visible": 245125,
+  "n_candidate": 3949,
+  "fit_seconds": 4.43
+}

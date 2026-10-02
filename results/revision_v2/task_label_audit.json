@@ -1,0 +1,31 @@
+{
+  "created_utc": "2026-09-30T01:59:54.260772+00:00",
+  "status": "Exploratory post-critique extension; no v1 model/rule reclassification",
+  "release_end": "2024-12-31",
+  "core_regex": "^H01M10/(6[0-9]|50)",
+  "core_definition": "Any CPC or IPC at-issue code matching battery thermal H01M10/6x or H01M10/50, not title keywords or any thermal-field citation",
+  "externality": "Full known citing owner set must not overlap full candidate owner set; no same application, exact v1 logic",
+  "n_candidates": 64688,
+  "n_future_edges": 51605,
+  "n_future_core_edges": 1154,
+  "n_v1_count_mismatches": 0,
+  "n_focal_core_org_candidate_rows": 1042,
+  "n_single_citing_patent_2org_cases": 556,
+  "n_2org_cases": 7365,
+  "limits": [
+    "Core classification is task-associated citation evidence, not technical transfer or use",
+    "One grant may have multiple owners; two owners and two grants still do not demonstrate independent projects or families",
+    "International and continuation-family independence unavailable",
+    "Later grant citation can come from an application filed before the screening origin",
+    "Organization-specific links do not establish actual recommendation receipt or an algorithm effect",
+    "Fine code novelty can reflect schema evolution; preserve native codes and report this boundary"
+  ],
+  "raw_audit": {
+    "n_sample_patents": 12,
+    "n_count_fields": 96,
+    "mismatches": 0,
+    "raw_citation_rows_scanned": "All source TSV rows; exact eligible citation subset independently rebuilt",
+    "sampling": "Each held-out year: lowest ID ordinary, single-grant coownership, and positive core applicant strata",
+    "independence_scope": "Citation raw TSV read separately; owner keys independently rebuilt from retained original organization-name rows and core flags from individual CPC/IPC code rows; patent dates and applications from retained source database, not canonical labels"
+  }
+}
